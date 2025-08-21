@@ -1,0 +1,16 @@
+:: create new env
+python -m venv C:\Users\o.hamed\Envs\training
+
+:: VS CODE
+python -m venv training
+
+:: activate it
+C:\Users\o.hamed\Envs\training\Scripts\activate
+
+:: upgrade pip first
+pip install --upgrade pip ::REM Not woking
+
+python.exe -m pip install --upgrade pip
+
+:: install pinned versions
+pip install jupyter pandas numpy scipy scikit-learn tensorflow==2.15.* keras==2.15.* "tensorflow-probability[tf]" alibi-detect
