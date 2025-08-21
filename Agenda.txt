@@ -1,5 +1,5 @@
 Here is the weekly agenda for ML-Training
 
-#=======  Week 6: 04 Seaborn.pptx =======
-- Google Colab
+#=======  Week 3: 04 Seaborn.pptx =======
+- Google Colab + Matplotlip
 - Seaborn
