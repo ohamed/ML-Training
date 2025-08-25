@@ -1,5 +1,14 @@
 Here is the weekly agenda for ML-Training
 
-#=======  Week 3: 04 Seaborn.pptx =======
+#=======  Week 3: Ch. 04 Seaborn.pptx =======
+		Session 6: Part 1
 - Google Colab + Matplotlip
+		Session 6: Part 2
 - Seaborn
+
+#=======  Week 3: Ch. 06 Intro to ML-Part1.pptx =======
+		Session 7: 
+- Types of ML
+- Intro. to Evaluation Metrics
+		Session 8: 
+- Evaluation Metrics with Examples
