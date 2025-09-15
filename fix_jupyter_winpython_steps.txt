@@ -1,0 +1,11 @@
+Fix for Jupyter Notebook not starting in WinPython:
+
+1. Open "WinPython Command Prompt.exe" from C:\WPy64-31350
+2. Run:
+   python -m pip install --upgrade pip
+   python -m pip install notebook jupyterlab
+3. Verify installation:
+   where jupyter-notebook
+   # should show path inside C:\WPy64-31350\python\scripts
+4. Start Jupyter Notebook:
+   jupyter notebook
