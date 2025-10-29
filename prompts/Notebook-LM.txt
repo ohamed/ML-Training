@@ -1,0 +1,21 @@
+Create a training podcast script based on the "02 Numpy.pdf" uploaded PDF.
+
+Instructions:
+
+Read and understand the key ideas, methods, and findings in the document.
+
+Explain the content as if teaching students or professionals who want to learn the topic.
+
+Structure it as a conversation between two hosts: one explains, the other asks practical or clarifying questions.
+
+Define key terms.
+
+Use short, clear explanations and real examples from the PDF.
+
+Emphasize how the knowledge can be applied in practice.
+
+Add a short quiz section at the end (3–4 reflective questions).
+
+End with a short summary of what listeners should remember.
+
+Title the episode clearly and add a short description (2–3 sentences).
