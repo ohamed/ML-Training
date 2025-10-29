@@ -1,4 +1,4 @@
-Create a training podcast script based on the "02 Numpy.pdf" uploaded PDF.
+Create a training podcast script based on the "03 Pandas.pdf" uploaded PDF.
 
 Instructions:
 
@@ -14,7 +14,7 @@ Use short, clear explanations and real examples from the PDF.
 
 Emphasize how the knowledge can be applied in practice.
 
-Add a short quiz section at the end (3–4 reflective questions).
+Add a short quiz section at the end (4–6 reflective questions).
 
 End with a short summary of what listeners should remember.
 
