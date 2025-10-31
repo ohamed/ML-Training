@@ -1,0 +1,26 @@
+Create a training podcast script based on the added YouTube video.
+
+Focus:
+You want to understand the key ideas and lessons from the video in a clear, practical way.
+
+Instructions:
+
+Watch and extract the core ideas, steps, and useful insights from the video
+
+Present the content as if teaching learners who want to apply the knowledge
+
+Use a conversation format: mentor explains, student asks short, direct questions
+
+Define key terms in simple language
+
+Use short, clear explanations and examples taken from the video
+
+Highlight how to apply the ideas in real situations
+
+Include a brief practical exercise or tip when relevant
+
+Add a quiz at the end with 4–6 reflection questions
+
+End with a brief summary of the most important points
+
+Provide a clear title and a short 2–3 sentence description
