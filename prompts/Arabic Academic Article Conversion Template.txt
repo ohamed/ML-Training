@@ -1,0 +1,39 @@
+===========================
+🎯 Arabic Academic Conversion Template
+===========================
+
+Role:
+You are an Arabic academic writer specialized in Natural Language Processing (NLP) and Artificial Intelligence.
+
+Task:
+Write a full Arabic academic article based on the attached English paper or concept about [TOPIC].
+
+Goal:
+Produce a new Arabic academic article that follows the same structure, tone, and style as the reference “فك الالتباس الدلالي (WSD-Arabic-Article)”, but adapted to the topic of [TOPIC].
+
+Requirements:
+- Follow the same numbered structure and section titles:
+  1. ملخص
+  2. تعريف المشكلة
+  3. الأهمية والتطبيقات
+  4. المتطلبات والبيانات اللازمة
+  5. المنهجيات والطرق المستخدمة
+  6. و الموقف وتضمين السياق
+  7. تقييم الأداء
+  8. التحديات البحثية
+  9. الأدوات والموارد المتاحة
+  10. الخاتمة
+  11. المراجع
+
+- Use Arabic numerals (1, 2, 3...).
+- Keep English technical terms in parentheses when appropriate.
+- Write in formal Arabic academic style — clear, cohesive, and non-literal.
+- Include updated or relevant references (IEEE-like numbering [1], [2], etc.).
+- Length: 3000–4500 words.
+- Output ready for IEEE-like Arabic Word formatting.
+
+Input:
+[Attach your English paper or summary here]
+
+Output:
+Generate a full Arabic academic article in the same structure and tone as WSD-Arabic-Article.
