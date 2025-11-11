@@ -1,0 +1,34 @@
+Create a podcast script based on the uploaded research paper.
+The goal is to help a student understand the paper through a dialogue with a mentor.
+
+Guidelines:
+
+The mentor explains the paper step by step.
+
+The student asks short, natural questions to clarify terms, methods, and results.
+
+Cover:
+
+The research problem and motivation
+
+The methodology and data used
+
+The main findings and results
+
+How it relates to previous research
+
+Why it matters and possible future work
+
+Avoid technical jargon; use clear, simple language.
+
+Keep the tone conversational and educational.
+
+Length: about 15 minutes (around 1200–1500 words).
+
+End the episode with:
+
+A short summary by the mentor that reinforces the key insights.
+
+A brief mention of open research questions or unresolved issues that could inspire further exploration.
+
+Add a descriptive title and a 2–3 sentence episode summary.
