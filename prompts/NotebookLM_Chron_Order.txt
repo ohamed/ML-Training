@@ -1,0 +1,29 @@
+Create a training podcast script based on the uploaded PDF “03 Pandas.pdf.”
+
+Instructions
+
+Read and understand the content fully before writing.
+
+Explain the material in chronological order following the sequence of topics and examples in the PDF.
+
+Use a two-host format:
+
+Host 1 explains each concept step by step.
+
+Host 2 asks short, practical, or clarifying questions at the right moments.
+
+Define key terms as they appear.
+
+Keep sentences short and clear.
+
+Use real examples taken directly from the document.
+
+Show how each concept connects to the next.
+
+Highlight how the knowledge can be applied in real work or study situations.
+
+Add a short quiz section at the end with 4–6 reflective questions.
+
+Finish with a short summary of the main takeaways.
+
+Provide a clear title and a 2–3-sentence episode description.
