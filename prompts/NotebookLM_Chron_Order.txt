@@ -27,3 +27,5 @@ Add a short quiz section at the end with 4–6 reflective questions.
 Finish with a short summary of the main takeaways.
 
 Provide a clear title and a 2–3-sentence episode description.
+
+Keep the total length suitable for a 15–20 minute episode (about 1200–1600 words).
