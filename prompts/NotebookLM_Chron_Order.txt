@@ -1,4 +1,4 @@
-Create a training podcast script based on the uploaded PDF “03 Pandas.pdf.”
+Create a training podcast script based on the uploaded PDF “05 Python-for-DSML.pdf.”
 
 Instructions
 
