@@ -1,0 +1,19 @@
+Create a short internal podcast based on the provided email update.
+
+The goal is to turn the achievements and announcements into a spoken episode that people can listen to quickly.
+
+Instructions
+
+• Keep the length between 2 and 3 minutes.
+• Use two speakers.
+• Speaker 1 presents each achievement in simple language.
+• Speaker 2 asks short clarifying questions that help the listener understand why the point matters.
+• Keep the explanations short and cover all the points listed in the email.
+• Follow the order of the original email.
+• Highlight names and achievements clearly.
+• End with a short closing message inviting colleagues to share updates for the next edition.
+• Keep the style friendly and professional.
+
+Notes: 
+- Please process my files only for this project.
+- Do not store or reuse my content outside this Notebook.
