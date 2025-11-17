@@ -1,0 +1,33 @@
+Create a training video based on the uploaded PDF “06 Intro to ML-Part1.pdf.”
+
+Instructions
+
+Read and understand the content before producing the video.
+
+Present the material in chronological order as it appears in the PDF.
+
+Use two narrators.
+
+Narrator 1 explains each idea step by step.
+
+Narrator 2 asks short practical questions that help the viewer follow the flow.
+
+Define key terms when they appear.
+
+Keep the language short and clear.
+
+Use examples taken from the PDF.
+
+Show how each idea leads to the next one.
+
+Explain how learners can apply the knowledge in real tasks.
+
+Display the important figures or slides from the PDF at the right moments in the video.
+
+Add a short quiz at the end with 4–6 reflective questions.
+
+End with a summary of the main takeaways.
+
+Add a clear title and a short description of 2–3 sentences.
+
+Keep the total length suitable for a 15–20 minute video.
