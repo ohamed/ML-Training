@@ -1,4 +1,4 @@
-Create a training podcast script based on the "03 Pandas.pdf" uploaded PDF.
+Create a training podcast script based on the uploaded PDF: "03 Pandas.pdf" uploaded PDF.
 
 Instructions:
 
@@ -19,3 +19,5 @@ Add a short quiz section at the end (4–6 reflective questions).
 End with a short summary of what listeners should remember.
 
 Title the episode clearly and add a short description (2–3 sentences).
+
+Keep the total length suitable for a 15–20 minute audio.
