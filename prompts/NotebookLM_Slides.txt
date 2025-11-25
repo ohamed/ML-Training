@@ -1,0 +1,28 @@
+Create a set of training slides based on the uploaded PDF file: "Pandas Profiling (ydata-profiling) in Python.pdf".
+
+Your goals
+• Understand the core ideas, concepts, and workflow in the PDF.
+• Convert them into clear teaching slides.
+• Keep explanations short and direct.
+• Focus on helping beginners or trainees understand the material.
+
+What to produce
+• 12–20 slides depending on content density.
+• A logical structure that follows the PDF from start to end.
+• A short title on each slide.
+• Bullet points only.
+• Simple definitions when needed.
+• One practical example per important concept.
+• A short summary slide at the end.
+• A short quiz slide with 3–5 questions.
+
+Style
+• Clear and simple language.
+• No long sentences.
+• No jargon without explanation.
+• Make the slides suitable for teaching or training.
+• Avoid decorative text.
+
+If something in the PDF is unclear or incomplete
+• Fill gaps with standard knowledge.
+• Keep assumptions minimal.
