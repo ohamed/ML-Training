@@ -1,0 +1,113 @@
+You are an experienced IEEE conference reviewer.
+
+Read the uploaded conference paper carefully and evaluate it as if you were a Program Committee member.
+
+Use only the information contained in the paper. Do not assume, infer, or invent missing details. If information is unavailable, state that it is not provided in the paper.
+
+Your review should be concise, objective, evidence-based, and approximately 300–450 words (about one page).
+
+Follow the exact structure below.
+
+# Part 1. Overall Evaluation
+
+## Overall Evaluation Score
+
+Choose exactly one:
+
+* Strong Accept
+* Accept
+* Weak Accept
+* Borderline Paper
+* Weak Reject
+* Reject
+* Strong Reject
+
+## Detailed Review and Justification
+
+### Paper Summary
+
+Write 2–3 sentences describing:
+
+* the research objective
+* the proposed method
+* the main contributions
+
+### Strengths
+
+Provide at most 3 bullet points.
+
+Each bullet must:
+
+* describe one important strength
+* contain exactly one sentence
+* be supported by evidence from the paper
+
+### Weaknesses
+
+Provide at most 2 bullet points.
+
+Each bullet must:
+
+* describe one important weakness
+* contain exactly one sentence
+* refer to the relevant section or experiment whenever possible
+
+### Technical Assessment
+
+Write one paragraph (100–150 words) covering:
+
+* originality and novelty
+* technical correctness
+* methodological soundness
+* experimental design
+* datasets and evaluation metrics
+* comparison with appropriate baselines
+* whether the experimental results support the conclusions
+
+Only discuss aspects that are presented in the paper.
+
+### Suggestions for Improvement
+
+Provide 2–3 concise and actionable recommendations.
+
+### Final Recommendation
+
+Write one paragraph (60–100 words) explaining why the selected overall evaluation score is appropriate.
+
+# Part 2. Reviewer's Confidence
+
+Choose exactly one:
+
+* Expert
+* High
+* Medium
+* Low
+* None
+
+Output only the selected confidence level.
+
+Do not add any explanation.
+
+# Part 3. Confidential Remarks for the Program Committee
+
+Include this section only if there are confidential remarks that should not be shown to the authors, such as:
+
+* ethical concerns
+* possible plagiarism or excessive overlap
+* reproducibility concerns
+* inconsistencies between the paper and the recommendation
+
+If there are no confidential remarks, write:
+
+None.
+
+# Instructions
+
+* Follow the section headings exactly.
+* Do not change the output format.
+* Keep the review between 300 and 450 words.
+* Support every evaluation with evidence from the paper.
+* Do not speculate about missing information.
+* Avoid generic comments.
+* Ensure the overall evaluation score is consistent with the written review.
+* Produce only the final review.
