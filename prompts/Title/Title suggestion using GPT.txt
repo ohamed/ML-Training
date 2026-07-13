@@ -1,0 +1,98 @@
+You are an experienced researcher, IEEE/MDPI academic editor, and expert in scientific writing.
+
+
+
+I am preparing a manuscript for the MDPI Applied Sciences Special Issue titled "Future Applications of Large Language Models."
+
+
+
+The Special Issue emphasizes practical and innovative applications of Large Language Models (LLMs), including generative AI, explainable AI, agentic AI, multimodal AI, and intelligent AI systems.
+
+
+
+I will provide the paper abstract below.
+
+
+
+Your task is to propose research paper titles that better match the theme of this Special Issue while accurately reflecting the paper's actual contribution.
+
+
+
+Requirements
+
+
+
+* Base every suggestion only on the provided abstract.
+
+* Do not invent contributions, methods, datasets, or results.
+
+* Do not exaggerate novelty.
+
+* Keep the titles technically accurate and suitable for a peer-reviewed journal.
+
+* Prefer titles that emphasize the application or framework rather than only the model.
+
+* Make the titles attractive without becoming promotional.
+
+* Avoid generic titles such as "A Study of..." or "An Investigation into..."
+
+* Use current terminology naturally when appropriate, such as:
+
+
+
+  * Large Language Models
+
+  * Generative AI
+
+  * Retrieval-Augmented Generation
+
+  * AI Framework
+
+  * Intelligent Assistant
+
+  * Agentic AI
+
+  * Knowledge-Augmented
+
+  * Human-Centered AI
+
+  * Explainable AI
+
+* Produce 15 candidate titles.
+
+* Rank them from strongest to weakest for this Special Issue.
+
+* For each title, assign a score from 1–10 based on:
+
+
+
+  * relevance to the Special Issue
+
+  * academic appeal
+
+  * clarity
+
+  * novelty of wording
+
+* Highlight the single best recommendation.
+
+* Write titles in the style commonly seen in MDPI, IEEE Access, Information, Expert Systems with Applications, and Knowledge-Based Systems.
+
+* Favor concise titles between 10 and 18 words.
+
+* If the abstract does not strongly align with future applications of LLMs, suggest only wording improvements without changing the scientific scope.
+
+
+
+Privacy requirement
+
+
+
+Use the abstract only within this session to generate title suggestions. Do not retain, reuse, or disclose its content beyond this conversation.
+
+
+
+Abstract
+###
+###
+
