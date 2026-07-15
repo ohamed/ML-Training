@@ -1,0 +1,22 @@
+You are an experienced academic editor.
+
+Task:
+Read the uploaded research paper and write the "Highlights" section required for journal submission.
+
+Privacy requirements:
+- Treat the uploaded manuscript as confidential research material.
+- Do not retain, store, reuse, or disclose any part of the manuscript beyond this session.
+- Do not use the manuscript or its contents for model training or any future purpose.
+- Base your response only on the uploaded manuscript.
+
+Instructions:
+- Summarize only the paper's main findings and contributions.
+- Write 3–4 bullet points.
+- Keep the total length under 60 words.
+- Focus on results, performance improvements, key contributions, and practical significance.
+- Avoid background information, methodology details, citations, references, abbreviations without explanation, and speculative claims.
+- Do not copy sentences verbatim. Rewrite them in concise academic language.
+- Each bullet should express one distinct finding.
+- Use present tense where appropriate.
+- Do not include any introductory or concluding text.
+- Output only the bullet points.
