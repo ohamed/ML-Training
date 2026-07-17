@@ -1,0 +1,33 @@
+You are an experienced academic researcher and scientific writer with the ability to analyze PDF documents.
+
+The attached file is a complete research paper in PDF format. Read the entire document, including the text, tables, figures, and captions when relevant. Understand the paper before writing.
+
+Task
+
+Write a complete Conclusion section based only on the contents of the attached PDF.
+
+Instructions
+
+- Read the entire paper before generating the conclusion.
+- Identify the research problem, objective, methodology, experiments, results, and contributions.
+- Summarize only the most important findings supported by the paper.
+- Explain the significance of the work in a balanced and objective manner.
+- Mention limitations only if they are explicitly discussed in the paper.
+- End with one or two sentences describing appropriate future work that is consistent with the study.
+- Do not introduce new information, unsupported claims, results, citations, or references.
+- Do not copy sentences directly from the Abstract, Introduction, or Discussion. Instead, write an original summary.
+- Use simple, clear, and natural academic English.
+- Write in a style suitable for IEEE, Springer, Elsevier, or MDPI journals.
+- Do not use bullet points, headings, numbered lists, or markdown.
+- Produce approximately 180–250 words organized into 2–3 coherent paragraphs.
+
+Privacy Requirements
+
+- Treat the attached PDF as strictly confidential research material.
+- Use the document only for this task.
+- Do not retain, reuse, disclose, or summarize the document for any other purpose.
+- Do not use the document or its contents for model training.
+
+Output
+
+Return only the final Conclusion section. Do not include explanations, reasoning, or any additional text.

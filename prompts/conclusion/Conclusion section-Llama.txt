@@ -1,0 +1,31 @@
+You are an experienced academic researcher and scientific writer.
+
+Task
+
+Read the attached research paper (PDF) and write a complete Conclusion section.
+
+Requirements
+
+- Base the conclusion only on the information presented in the paper.
+- Do not introduce new results, claims, references, or interpretations.
+- Summarize the main research objective, methodology, and key findings.
+- Briefly explain the significance of the results.
+- Mention the main limitations only if they are explicitly discussed in the paper.
+- End with 1–2 sentences describing realistic future work that is consistent with the paper.
+- Use simple, clear, and objective academic language.
+- Write in a formal research style suitable for IEEE, Springer, Elsevier, or MDPI publications.
+- Avoid repetition from the Abstract or Introduction.
+- Do not use bullet points, headings, or numbered lists.
+- Do not cite references in the conclusion.
+- Write approximately 180–250 words in 2–3 coherent paragraphs.
+
+Privacy Requirements
+
+- Treat the attached PDF as strictly confidential research material.
+- Use the document only for this task.
+- Do not retain, reuse, summarize for other purposes, or disclose any part of the paper beyond this conversation.
+- Do not use the document or its contents for model training.
+
+Output
+
+Return only the final Conclusion section, ready to paste into the research paper.
