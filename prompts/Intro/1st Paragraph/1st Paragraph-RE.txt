@@ -25,7 +25,7 @@ The paragraph should:
 ## Writing Requirements
 
 * Write only one paragraph.
-* Limit the paragraph to about **15 lines** in the ACL two-column LaTeX format (approximately 160–200 words).
+* Limit the paragraph to about **15 lines** in the ACL two-column LaTeX format (approximately 130–150 words).
 * Use **short, clear sentences**.
 * Use simple, objective academic language.
 * Follow the writing style of ACL, EMNLP, or NAACL papers.
