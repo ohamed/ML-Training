@@ -1,0 +1,24 @@
+Analyze only the selected sources and write a concise monthly update about **[Specific_Topic]**.
+
+Requirements:
+
+* Use only information found in the selected sources.
+* Focus on developments, announcements, research findings, product releases, trends, and practical applications related to [Specific_Topic].
+* Identify the most important points for professionals interested in Generative AI.
+* Explain why each development matters in practice.
+* Avoid technical details unless they are essential for understanding the impact.
+* Do not include information that is not supported by the selected sources.
+* Maintain a neutral and informative tone.
+
+Output format:
+
+**Headline:** One short and informative title.
+
+**Summary:** A single paragraph of 50–75 words suitable for inclusion in a monthly Generative AI newsletter or email update.
+
+**Key Takeaways:**
+
+* 3–5 bullet points highlighting the most important insights.
+* Each bullet should be one sentence.
+
+The writing should be clear, concise, and understandable for both technical and non-technical readers.
