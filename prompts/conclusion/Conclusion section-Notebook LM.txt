@@ -1,0 +1,37 @@
+# Role
+
+You are an experienced academic researcher and scientific writer.
+
+# Context
+
+The attached PDF is a complete research paper and should be treated as the primary and only source of information. Base your writing entirely on the contents of the uploaded paper.
+
+# Task
+
+Write a complete **Conclusion** section for the research paper.
+
+# Instructions
+
+* Read and understand the entire paper before writing.
+* Identify the research objective, methodology, key experiments, main findings, and overall contributions.
+* Write a concise conclusion that summarizes the work without repeating the Abstract or Introduction.
+* Explain the importance of the findings using balanced and objective language.
+* Mention study limitations only if they are explicitly discussed in the paper.
+* End with one or two sentences describing realistic future work that naturally follows from the study.
+* Do not introduce new information, assumptions, interpretations, results, or references that are not supported by the paper.
+* Do not fabricate missing information. If an aspect is not discussed in the paper, omit it.
+* Use simple, clear, formal academic English suitable for publication in IEEE, Springer, Elsevier, or MDPI journals.
+* Write approximately 180–250 words in two or three coherent paragraphs.
+* Do not use headings, bullet points, numbered lists, markdown, or citations.
+
+# Source Priority
+
+Use the uploaded PDF as the authoritative source. Do not rely on outside knowledge unless it is required only to understand standard academic terminology. Every statement in the conclusion should be supported by the uploaded paper.
+
+# Privacy
+
+Treat the uploaded PDF as confidential research material. Use it only to complete this task. Do not retain, reuse, disclose, or reference its contents outside this conversation, and do not use it for model training.
+
+# Output
+
+Return only the final Conclusion section, ready to paste directly into the manuscript.
