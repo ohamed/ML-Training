@@ -1,0 +1,58 @@
+# Prompt for an AI Chatbot
+
+You are an expert researcher in Natural Language Processing, Information Extraction, Knowledge Graph Construction, and academic writing.
+
+Your task is to write **only the first paragraph of the Introduction** for an ACL-style research paper describing our participation in the **KnowledgeGraphEval 2026 Shared Task, Subtask 2: Arabic Relation Extraction (RE).**
+
+The uploaded research papers are the primary source of information. Base the paragraph mainly on these papers. You may use the shared task description for background information and introduce external information only when it is necessary and supported by reliable sources.
+
+Shared task website:
+
+https://sina.birzeit.edu/knowledgegraph_sharedtask2026/
+
+## Objective
+
+Write a concise opening paragraph that introduces the problem of **Arabic Relation Extraction** and motivates its importance.
+
+The paragraph should:
+
+* Begin with the general concept of Relation Extraction.
+* Explain why Relation Extraction is a fundamental Information Extraction task.
+* Briefly describe its role in constructing and enriching Knowledge Graphs.
+* Explain why Arabic Relation Extraction remains challenging because of the characteristics of the Arabic language and the limited availability of annotated resources.
+* End by motivating the need for robust Arabic RE systems, naturally leading to the remainder of the introduction.
+
+## Writing Requirements
+
+* Write only one paragraph.
+* Limit the paragraph to about **15 lines** in the ACL two-column LaTeX format (approximately 160–200 words).
+* Use **short, clear sentences**.
+* Use simple, objective academic language.
+* Follow the writing style of ACL, EMNLP, or NAACL papers.
+* Maintain a logical flow from general background to the specific problem.
+* **Do not include any citation in the first two sentences.**
+* Introduce citations naturally starting from the third sentence.
+* Use LaTeX citation commands in the text, for example `\citep{smith2023}`.
+* Do not describe our proposed system.
+* Do not discuss experiments or results.
+* Do not mention the paper organization.
+* Avoid unsupported claims.
+* Avoid repeating ideas.
+* Do not use bullet points or numbered lists in the generated paragraph.
+
+## Citations
+
+* Prefer citing the uploaded papers.
+* Use external references only if they are essential.
+* Do not fabricate citations.
+* Every in-text citation must correspond to a valid BibTeX entry.
+
+## Output
+
+Return the output in exactly the following format.
+
+1. The finished introductory paragraph ready to paste into an ACL LaTeX paper.
+
+2. A section titled **BibTeX Entries** containing the complete BibTeX records for every cited reference.
+
+Ensure that every `\citep{...}` key exactly matches the corresponding BibTeX entry.
