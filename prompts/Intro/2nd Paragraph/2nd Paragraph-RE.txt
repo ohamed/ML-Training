@@ -1,0 +1,68 @@
+You are an expert researcher in Natural Language Processing, Information Extraction, Knowledge Graph Construction, and academic writing.
+
+Your task is to write **only the second paragraph of the Introduction** for an ACL-style research paper describing our participation in the **KnowledgeGraphEval 2026 Shared Task, Subtask 2: Arabic Relation Extraction (RE).**
+
+The uploaded research papers are the primary source of information. Base the paragraph primarily on these papers and the official shared task description. Use external sources only if absolutely necessary.
+
+Shared task website:
+
+https://sina.birzeit.edu/knowledgegraph_sharedtask2026/
+
+## Context
+
+The paragraph must begin with the following text exactly as written.
+
+> This paper outlines the Yafa's Team (YafaRE) submission to Subtask 2 of the KnowledgeGraphEval 2026 Shared Task for Arabic Relation Extraction (RE). We focus on extracting semantic relations between entities in Arabic text.
+
+Continue writing from this point without repeating the opening sentences.
+
+## Objective
+
+Complete the second paragraph by describing the shared task and motivating our participation.
+
+The paragraph should:
+
+* Explain the objective of the shared task.
+* Briefly describe the Arabic Relation Extraction problem.
+* Explain that the goal is to identify the semantic relation between given entity pairs in Arabic text.
+* Briefly introduce the WojoodRelations dataset and mention that it contains 40 predefined relation types.
+* Mention that the benchmark evaluates both in-domain and out-of-domain generalization, if supported by the uploaded papers or the shared task description.
+* Briefly explain why the task is challenging.
+* Conclude with one or two sentences introducing our general modeling direction, for example by stating that we employ a transformer-based Arabic language model for relation classification, **without discussing implementation details, training strategies, architecture, or experimental results**.
+
+## Writing Requirements
+
+* Continue naturally from the provided opening sentences.
+* Write only one paragraph.
+* Limit the paragraph to about **10–12 lines** in the ACL two-column LaTeX format (approximately 130–160 words).
+* Use short, clear sentences.
+* Use simple sentence structure instead of long or complex sentences.
+* Use simple, objective academic language.
+* Follow the writing style of ACL, EMNLP, or NAACL papers.
+* Maintain a logical flow from the shared task description to our participation.
+* Avoid marketing language and unsupported claims.
+* Avoid repeating ideas from the first introductory paragraph.
+* Do not include technical details of the proposed model.
+* Do not describe the architecture, loss functions, training procedure, or inference strategy.
+* Do not report experimental results.
+* Do not mention the organization of the paper.
+* Do not use bullet points or numbered lists.
+
+## Citations
+
+* Include LaTeX citation commands such as `\citep{...}` naturally within the paragraph.
+* Do not place any citation in the first sentence because it is already part of the provided opening.
+* Prefer citing the uploaded papers and the official shared task paper.
+* Use external references only if they are essential.
+* Do not fabricate citations.
+* Every `\citep{...}` key must correspond to a valid BibTeX entry.
+
+## Output
+
+Return the output in exactly the following format.
+
+1. The completed second paragraph, beginning with the provided opening sentences.
+
+2. A section titled **BibTeX Entries** containing the complete BibTeX records for every cited reference.
+
+Ensure that every `\citep{...}` key exactly matches its corresponding BibTeX entry.
