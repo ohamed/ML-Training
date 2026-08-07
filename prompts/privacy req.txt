@@ -1,0 +1,1 @@
+Privacy requirement: The uploaded table is confidential. Treat it as private research material. Do not retain, reuse, or disclose its contents beyond this conversation, and do not use it for model training.
