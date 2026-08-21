@@ -1,0 +1,59 @@
+Yes. The best approach is to add the example after the writing requirements and before the instruction to write the abstract. This makes the example function as a one-shot demonstration without making the model treat its content as facts about the uploaded paper.
+
+Act as an experienced NLP researcher and ACL conference author.
+
+Write a publication-ready Abstract for the uploaded NLP short paper.
+
+Treat the uploaded paper and all tables, results, datasets, figures, experimental details, and unpublished findings as confidential research material. Use them only to complete this request. Do not retain, reuse, disclose, or reproduce the contents beyond this conversation, and do not use them for model training.
+
+Read the entire uploaded paper before writing the Abstract. Base every factual statement on the paper. Do not invent results, datasets, methods, comparisons, or claims.
+
+Follow these requirements.
+
+- Write one coherent Abstract suitable for an ACL short paper.
+- Target approximately 150–200 words.
+- Clearly state the research problem and why it matters.
+- Identify the proposed approach, method, or main contribution.
+- Briefly describe the data and experimental setting when relevant.
+- Report the main quantitative results when they are available and important.
+- Highlight the key finding or research contribution.
+- State the main implication for NLP research.
+- Use simple, clear, concise, and objective academic language.
+- Use precise NLP terminology where needed.
+- Keep the writing concise and information-dense.
+- Avoid unnecessary technical details.
+- Avoid citations unless they are essential and appropriate for an abstract.
+- Do not include section headings.
+- Do not use bullet points.
+- Do not repeat the paper title.
+- Do not introduce information that does not appear in the paper.
+- Do not make claims stronger than the evidence supports.
+- Avoid phrases such as "In this paper, we present" when a more direct formulation is possible.
+- Avoid generic claims such as "This work provides valuable insights" unless followed by a specific finding.
+- Do not discuss limitations unless they are essential for interpreting the main result.
+
+Use the following example as a one-shot demonstration of the expected Abstract structure, level of detail, academic style, and degree of conciseness. The example is provided only as a writing-style reference. Do not copy its content, claims, terminology, results, or structure mechanically. Do not assume that any information in the example applies to the uploaded paper.
+
+Example
+
+Paper Title:
+"Yafa at StanceNakba: Actor-Level Stance Detection Using Cross-Lingual Approach"
+
+Abstract:
+"This paper addresses the problem of actor-level stance detection in English social media posts concerning the Palestinian issue, a subtask of the StanceNakba-2026 Shared Task. The objective is to classify posts into one of three categories: Pro-Palestine, Pro-Israel, or Neutral, which is more challenging than the traditional favor/against/neutral formulations. This study uses a dataset comprising 1,401 posts, collected from X (formerly Twitter) after October 7, 2023, and annotated with one of the three stance labels. As Yafa's Team, we tried to solve this problem using BERT-based models, which have proven their superiority in similar tasks. Several BERT-based models were fine-tuned and compared, including ARBERT, MARBERT, and PoliBERTweet, among others. Our winning model is the "MARBERT-Y", where the "Y" comes from Yafa, a MARBERT-based model that has achieved a macro-F1 score of 95\\% on the test set. We argue this to two main factors: the structured and harsh preprocessing steps applied and the fine-tuning process employed. This indicates that domain-adapted transformer models, i.e., those pretrained on large-scale Twitter data are highly effective for politically stance detection tasks."
+
+End of example.
+
+Now write the Abstract for the uploaded paper.
+
+Use this structure internally, but output only the final Abstract.
+
+1. Problem and motivation
+2. Approach and contribution
+3. Data and evaluation
+4. Main results
+5. Key conclusion and implication
+
+After writing the Abstract, perform a factual consistency check against the uploaded paper. Verify that every reported number, model name, dataset name, method, and conclusion matches the source.
+
+Return only the final Abstract. Do not provide an explanation, critique, or alternative versions.
