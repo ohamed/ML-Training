@@ -1,0 +1,178 @@
+Before generating the literature review, first ingest and analyze all uploaded PDF files using every available document-processing capability, including native PDF parsing, OCR, layout analysis, table extraction, figure understanding, and vision-language analysis. Process every uploaded document completely before writing the literature review.
+
+You are an expert researcher in Arabic Natural Language Processing, Named Entity Recognition, Domain Adaptation, and academic writing.
+
+Your task is to write the **Literature Review** section for an ACL-style research paper describing our participation in the **KnowledgeGraphEval 2026 Shared Task, Subtask 1: AdaptNER (Cross-Domain Arabic Named Entity Recognition)**.
+
+The goal of Subtask 1 is to develop robust Arabic Named Entity Recognition (NER) systems that generalize across domains. The benchmark evaluates models on cross-domain adaptation, requiring systems trained on one or more source domains to perform effectively on unseen target domains. The shared task emphasizes domain robustness rather than in-domain performance.
+
+Primary Source Requirement
+
+The uploaded PDF papers are the primary and authoritative sources.
+
+Base the literature review primarily on the uploaded papers.
+
+Use the uploaded papers whenever possible.
+
+You may introduce at most three additional highly relevant references only if they fill important gaps, such as:
+
+* recent Arabic transformer-based NER models
+* cross-domain or domain-adaptive NER
+* multilingual transfer learning for NER
+* Arabic benchmark datasets that are directly relevant to domain adaptation
+
+Do not introduce more than three external references.
+
+Writing Requirements
+
+Write a concise literature review suitable for an ACL conference paper.
+
+The final output should occupy approximately one to one-and-a-half columns in the ACL LaTeX template (roughly 600–800 words).
+
+Do not exceed this length.
+
+Avoid unnecessary historical background.
+
+Focus on research that directly motivates a cross-domain Arabic NER system.
+
+Organization
+
+Structure the literature review as a coherent narrative rather than a sequence of paper summaries.
+
+Cover the following topics naturally.
+
+Introduction to Named Entity Recognition
+
+Define Named Entity Recognition.
+
+Explain its importance in information extraction, question answering, knowledge graph construction, retrieval, and downstream NLP applications.
+
+Arabic Named Entity Recognition
+
+Discuss the evolution of Arabic NER.
+
+Highlight the linguistic challenges of Arabic, including:
+
+* rich morphology
+* orthographic ambiguity
+* tokenization issues
+* dialectal variation
+* nested entities
+* limited annotated resources
+* domain shift
+
+Cross-Domain Arabic NER
+
+Discuss why domain adaptation is challenging for Arabic NER.
+
+Explain common sources of domain shift, including differences in vocabulary, writing style, annotation guidelines, and entity distributions.
+
+Summarize approaches proposed for improving cross-domain robustness.
+
+Existing Approaches
+
+Discuss the progression of methods, including:
+
+* rule-based systems
+* feature-engineering and traditional machine learning
+* CRF-based methods
+* BiLSTM-CRF architectures
+* contextual embedding approaches
+* transformer-based encoder models such as AraBERT, MARBERT, CAMeLBERT, ArabicBERT, mBERT, XLM-R, and other relevant pretrained language models
+* recent instruction-tuned or large language model approaches if covered by the uploaded papers
+
+Compare these approaches analytically and explain how each generation addresses limitations of earlier methods.
+
+Arabic NER Datasets
+
+Summarize the Arabic NER datasets discussed in the uploaded papers.
+
+Emphasize datasets used for domain adaptation or cross-domain evaluation whenever available.
+
+Discuss limitations such as:
+
+* domain specificity
+* annotation inconsistency
+* limited domain diversity
+* class imbalance
+* scarcity of cross-domain benchmarks
+
+Do not describe datasets that are unsupported by the uploaded papers unless they are among the maximum three external references.
+
+Research Gap
+
+Conclude with a concise synthesis identifying remaining challenges, including:
+
+* cross-domain generalization
+* robustness to unseen domains
+* adaptation with limited labeled target-domain data
+* handling dialectal variation
+* generalization across heterogeneous text sources
+* scarcity of comprehensive Arabic cross-domain benchmarks
+
+Naturally connect these challenges to the motivation for participating in the KnowledgeGraphEval 2026 Shared Task, Subtask 1: AdaptNER.
+
+Writing Style
+
+Write in the style of ACL, EMNLP, or NAACL papers.
+
+The literature review should:
+
+* be analytical rather than descriptive
+* compare studies instead of listing them
+* synthesize findings across multiple papers
+* identify research trends
+* discuss strengths and limitations
+* build a clear narrative leading to the shared task
+
+Use smooth transitions between paragraphs.
+
+Avoid bullet points.
+
+Avoid numbered lists.
+
+Avoid repetitive statements.
+
+Citations
+
+Use proper ACL/LaTeX citations (e.g., `\citep{}` or `\citet{}`).
+
+Every in-text citation must use its BibTeX citation key.
+
+Embed the BibTeX citation keys directly in the generated text. For example:
+
+`AraBERT significantly improved Arabic NER performance by leveraging large-scale pretraining \citep{antoun2020arabert}.`
+
+Do not use placeholder citations.
+
+Do not fabricate citations.
+
+Every cited work must appear in a separate **BibTeX References** section following the literature review.
+
+For each cited paper, provide the complete BibTeX entry, ready for direct copy-and-paste into `custom.bib`.
+
+When the uploaded PDFs contain BibTeX metadata, use those entries. Otherwise, generate accurate BibTeX entries from the publication metadata.
+
+For any additional external references (maximum three), also provide complete BibTeX entries.
+
+Output Format
+
+Return the following in order:
+
+1. **Literature Review** (ACL-ready LaTeX text containing embedded `\citep{}` and/or `\citet{}` citations).
+
+2. **BibTeX References** containing complete BibTeX entries for every citation appearing in the literature review, ready to paste into `custom.bib`.
+
+Do not include an abstract.
+
+Do not include methodology.
+
+Do not include system description.
+
+Do not include experiments.
+
+Do not include future work.
+
+Do not explain your reasoning.
+
+Return only the finished literature review followed by the BibTeX entries.

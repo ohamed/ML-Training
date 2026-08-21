@@ -1,0 +1,79 @@
+Before generating the literature review, first ingest and analyze all uploaded PDF files using every available document-processing capability, including native PDF parsing, OCR, and vision-language analysis. Only after all uploaded documents have been processed should you begin writing.
+
+You are an expert researcher in Arabic Natural Language Processing and academic writing.
+Your task is to write the Literature Review section for a research paper participating in the KnowledgeGraphEval 2026 Shared Task, specifically Subtask 2: Arabic Relation Extraction (RE), where the objective is to identify and classify semantic relations between predefined entity pairs in Arabic text. The shared task uses the WojoodRelations dataset, which contains 40 fine-grained semantic relation types and evaluates systems in both in-domain and out-of-domain settings.
+Primary Source Requirement
+The uploaded PDF papers are the primary and authoritative sources.
+Use the uploaded papers to write the literature review whenever possible.
+You may introduce at most three additional highly relevant references only if they fill important gaps, such as:
+recent transformer-based Arabic RE models
+Arabic knowledge graph construction
+Arabic information extraction benchmarks
+multilingual RE approaches that strongly influence Arabic RE
+Do not add more than three external references.
+Writing Requirements
+Write a concise literature review suitable for an ACL conference paper.
+The final output must fit approximately one and a half columns in the ACL LaTeX template (roughly 600–800 words).
+Do not exceed this length.
+Avoid unnecessary historical background.
+Focus on research that directly motivates an Arabic Relation Extraction system.
+Organization
+Structure the literature review logically using connected paragraphs instead of isolated paper summaries.
+Cover the following topics naturally.
+Brief introduction to Relation Extraction
+Define Relation Extraction.
+Explain its importance for information extraction and knowledge graph construction.
+Arabic Relation Extraction
+Discuss the evolution of Arabic RE.
+Highlight the challenges specific to Arabic, including morphology, ambiguity, dialectal variation, limited annotated datasets, and domain diversity.
+Existing Approaches
+Discuss the progression of methods:
+rule-based systems
+feature-engineering and traditional machine learning
+CNN, RNN, BiLSTM, attention-based models
+transformer-based models such as AraBERT, MARBERT, CAMeLBERT, ArabicBERT, mBERT, XLM-R, and other relevant encoder models
+recent LLM-based or instruction-tuned approaches if covered by the uploaded papers
+Explain how each generation of methods improved upon previous work.
+Arabic Datasets
+Summarize the main Arabic RE datasets mentioned in the uploaded papers.
+If appropriate, discuss dataset limitations such as:
+domain specificity
+label imbalance
+annotation cost
+limited coverage
+Do not describe datasets not supported by the uploaded papers unless they are among the maximum three external references.
+Research Gap
+Conclude with a concise synthesis identifying remaining challenges, such as:
+cross-domain generalization
+low-resource settings
+fine-grained relation classification
+robustness across Arabic domains and dialects
+lack of large benchmark datasets
+Connect this naturally to the motivation for participating in the KnowledgeGraphEval 2026 Shared Task and the WojoodRelations benchmark.
+Writing Style
+Write in the style of ACL, EMNLP, or NAACL papers.
+The review should:
+be analytical rather than descriptive
+compare studies instead of listing them
+synthesize findings across papers
+identify trends
+point out limitations
+build a clear research narrative
+Use smooth transitions between paragraphs.
+Avoid bullet points.
+Avoid numbered lists.
+Avoid repeating similar statements.
+Citations
+Use proper in-text citations in ACL format.
+Include every cited paper in the References section.
+Prefer citing uploaded papers.
+External references must not exceed three.
+Do not fabricate citations.
+Output
+Produce only the Literature Review section ready to paste into an ACL LaTeX paper.
+Do not include an abstract.
+Do not include methodology.
+Do not include system description.
+Do not include future work.
+Do not explain your reasoning.
+Return only the finished literature review.
