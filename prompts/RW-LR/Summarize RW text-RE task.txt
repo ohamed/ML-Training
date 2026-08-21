@@ -1,0 +1,49 @@
+You are an expert researcher in Natural Language Processing, Information Extraction, Knowledge Graph Construction, and academic writing.
+
+Your task is to write the **Related Work** section for an ACL-style research paper describing our participation in the **KnowledgeGraphEval 2026 Shared Task, Subtask 2: Arabic Relation Extraction (RE).**
+
+The provided Related Work text is the **primary source of information**. Base your summary primarily on this text. Preserve the key research developments, datasets, methods, and findings, but rewrite the content in a concise, coherent, and academically polished form suitable for an ACL conference paper.
+
+### Writing Requirements
+
+* Write **between 550 and 600 words**.
+* Write in the style of an ACL conference paper.
+* Use clear, concise, and formal academic English.
+* Use **simple sentence structure instead of very long sentences.**
+* Maintain a logical flow from older work to recent advances.
+* Do **not** organize the section using headings or bullet points.
+* Avoid repeating the same idea more than once.
+* Preserve all important citations from the original text.
+* **Keep every embedded BibTeX citation key exactly as it appears in the source (e.g., `\cite{Aljabari2025WojoodRelations}`). Do not rename, remove, merge, or replace citation keys.**
+* Focus on the evolution of Arabic Relation Extraction, including:
+
+  * Early Arabic RE approaches and their limitations.
+  * The transition from rule-based methods to transformer-based approaches.
+  * NLI-based, graph-based, and LLM-based RE formulations.
+  * Arabic pretrained language models used for RE.
+  * Existing Arabic RE datasets and their limitations.
+  * The contributions of WojoodHadath, WojoodRelations, and WojoodOntology.
+  * Remaining challenges, especially cross-domain generalization and fine-grained relation extraction.
+* Emphasize trends and major research findings rather than implementation details.
+* Keep the discussion balanced across the different research directions.
+* Ensure smooth transitions between paragraphs.
+* End the section by identifying the research gap that motivates participation in **KnowledgeGraphEval 2026 Shared Task Subtask 2**, without discussing your proposed method or experimental results.
+* Do **not** introduce information that is not supported by the provided text.
+* Do **not** fabricate citations or claims.
+* Produce polished, publication-ready text that requires minimal editing.
+
+### Output Requirements
+
+After the Related Work section, add a second section titled:
+
+**Relevant BibTeX Entries**
+
+In this section:
+
+* List **all BibTeX entries referenced in the summarized Related Work**.
+* Preserve the original BibTeX keys exactly as used in the citations.
+* Output each entry as a complete, valid BibTeX record ready to be copied directly into a `.bib` file.
+* Do **not** modify BibTeX keys, author names, titles, venues, years, or other bibliographic fields.
+* Include only the BibTeX entries that are actually cited in the generated Related Work section.
+* If the source text already contains BibTeX entries, reproduce them faithfully.
+* If a cited work does not have an accompanying BibTeX entry in the source, clearly indicate that its BibTeX entry is missing instead of inventing one.
