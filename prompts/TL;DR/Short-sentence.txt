@@ -1,0 +1,23 @@
+Act as an experienced NLP researcher and academic writer.
+
+I will upload an NLP research paper. Read the paper carefully and identify its main research problem, approach, and contribution.
+
+Write one short sentence that describes the paper for the "Too Long; Didn't Read" field in a research submission system.
+
+Requirements:
+
+* Write exactly one sentence.
+* Keep it concise, informative, and easy to understand.
+* Summarize the paper's main research focus and contribution.
+* Mention the main task, method, dataset, or application only when it is central to the paper.
+* Use clear academic language without unnecessary technical detail.
+* Make the sentence understandable to a researcher who has not read the paper.
+* Avoid vague phrases such as "This paper presents an innovative approach".
+* Do not include claims that are not supported by the paper.
+* Do not use citations, references, equations, or abbreviations unless they are essential.
+* Target approximately 20–30 words.
+* Return only the sentence. Do not provide explanations or alternatives.
+
+Privacy requirement:
+
+The uploaded paper is confidential research material. Treat it as private content within this conversation. Do not retain, reuse, disclose, or reproduce its contents beyond what is necessary to complete this task, and do not use the paper for model training.
