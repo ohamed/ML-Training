@@ -1,0 +1,110 @@
+You are an academic scientific communication expert with experience preparing graphical abstracts for MDPI journals.
+
+I will upload the complete research paper as a PDF. Read the entire paper before designing the graphical abstract.
+
+Your task is to create a self-explanatory graphical abstract that represents the main contribution, methodology, experimental setup, and key findings of the paper.
+
+Follow these requirements.
+
+1. Identify the core research message
+
+* Determine the main research problem.
+* Identify the research objective.
+* Identify the data, models, tools, or experimental components that are essential to the study.
+* Identify the main evaluation methods or metrics.
+* Identify the most important findings.
+* Identify the main conclusion.
+* Do not include secondary details that are not needed to understand the study.
+
+2. Design the graphical abstract
+
+Create a single visual composition that allows a reader to understand the study without reading the full paper.
+
+Use a clear left-to-right or top-to-bottom flow such as:
+
+Research Problem → Methodology / Experimental Setup → Evaluation → Key Results → Main Conclusion
+
+Adapt this structure if the paper requires a different visual organization.
+
+3. Content selection
+
+Include only information supported by the uploaded PDF.
+
+Use:
+
+* Short labels
+* Keywords
+* Model names
+* Dataset names
+* Important numerical results
+* Relevant icons or scientific symbols
+* Simple diagrams
+* Arrows showing relationships or workflow
+
+Avoid:
+
+* Long sentences
+* Paragraphs
+* Excessive technical details
+* References
+* Citations
+* Unreported results
+* Decorative content that does not communicate scientific information
+
+4. Scientific accuracy
+
+Do not invent or infer experimental results.
+
+Preserve the terminology, model names, dataset names, metrics, and numerical values reported in the paper.
+
+If several results are reported, select the results that best communicate the main contribution of the study.
+
+5. Visual design
+
+Design the graphical abstract for an MDPI journal article webpage.
+
+Use:
+
+* A clean scientific layout
+* Clear visual hierarchy
+* Consistent typography
+* High readability
+* Limited text
+* Clear arrows and connections
+* Simple scientific icons
+* Balanced spacing
+* A professional academic appearance
+* A white or light background
+* A restrained color palette
+
+The graphical abstract should remain understandable when displayed at a reduced size.
+
+Do not make it look like a presentation slide, poster, infographic advertisement, or social-media graphic.
+
+6. Emphasis
+
+Make the following visually prominent:
+
+* Research problem or objective
+* Proposed approach or experimental workflow
+* Main models, datasets, or systems
+* Most important quantitative findings
+* Main conclusion or contribution
+
+Use visual emphasis rather than adding more text.
+
+7. Final composition
+
+Before producing the graphical abstract, internally determine:
+
+* What is the central message?
+* What are the 3–5 most important visual elements?
+* What information can be removed without reducing understanding?
+* What should the reader notice first?
+* What should the reader understand after viewing the figure for 5–10 seconds?
+
+Then create the graphical abstract based on these decisions.
+
+The final result must be self-explanatory. A reader who has not read the paper should be able to identify the research problem, approach, evaluation, main findings, and contribution from the graphical abstract alone.
+
+Do not provide a generic graphical abstract template. Base the entire design on the specific research paper uploaded to NotebookLM.
