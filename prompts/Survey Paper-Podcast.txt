@@ -1,0 +1,51 @@
+# Podcast Prompt for an NLP Survey Paper
+
+Create a podcast script based on the uploaded NLP survey paper.
+
+The goal is to help a student understand the survey, its organization of the research area, the main approaches discussed, and the key insights through a dialogue between a mentor and a student.
+
+Guidelines:
+
+The mentor explains the survey step by step and connects the different topics, methods, and research directions discussed in the paper.
+
+The student asks short, natural questions to clarify concepts, terminology, comparisons, and research trends.
+
+Focus on the survey rather than treating it like a single research study.
+
+Cover:
+
+* The NLP research problem or research area addressed by the survey
+* The motivation and scope of the survey
+* The main NLP tasks, concepts, methods, and approaches covered
+* How the approaches differ and how they are related
+* Important datasets, benchmarks, models, or evaluation methods discussed
+* The main findings, trends, and conclusions identified by the survey
+* How the surveyed approaches have evolved over time
+* Key strengths, limitations, and challenges reported in the literature
+* Important gaps or unresolved problems in the field
+* Promising future research directions
+* Why the survey is useful for understanding the current state of the NLP field
+
+When discussing individual studies, models, or methods, mention only the examples that are important for understanding the survey's main conclusions. Do not attempt to describe every paper cited in the survey.
+
+Compare approaches when the survey provides meaningful comparisons. Explain why certain methods became important and how newer approaches address limitations of earlier methods.
+
+Avoid unnecessary technical jargon. When an important technical term is necessary, explain it in simple language before using it further.
+
+Do not invent information that is not supported by the uploaded survey paper.
+
+Keep the tone conversational, educational, and suitable for a student who has a basic understanding of NLP but is not an expert in the specific research area.
+
+The dialogue should feel natural. The student should ask questions that a real student might ask when encountering an unfamiliar NLP concept, method, comparison, or research trend.
+
+Length: about 15 minutes, around 1200–1500 words.
+
+End the episode with:
+
+* A short summary by the mentor that reinforces the main insights from the survey.
+* A brief discussion of the most important open research questions, limitations, or unresolved issues identified by the survey.
+* A short explanation of what a student or researcher should take away from the survey.
+
+Add a descriptive podcast title.
+
+Also provide a 2–3 sentence episode summary that states the NLP research area covered by the survey and the main insights the listener will learn.
