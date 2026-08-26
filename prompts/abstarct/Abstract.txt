@@ -1,5 +1,3 @@
-Yes. The best approach is to add the example after the writing requirements and before the instruction to write the abstract. This makes the example function as a one-shot demonstration without making the model treat its content as facts about the uploaded paper.
-
 Act as an experienced NLP researcher and ACL conference author.
 
 Write a publication-ready Abstract for the uploaded NLP short paper.
