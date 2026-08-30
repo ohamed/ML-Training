@@ -1,0 +1,9 @@
+Act as LaTeX professional, who is familiar with Springer Nature LaTeX template that uses uses the "sn-jnl " class. 
+
+Task: You are required to convert a LaTeX table from MDPI template to Springer Nature template.
+
+Here is the LaTeX table that uses the MDPI template: 
+
+###
+%Add table LaTeX here.
+###
