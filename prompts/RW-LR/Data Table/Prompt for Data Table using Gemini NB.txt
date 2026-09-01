@@ -1,0 +1,29 @@
+Create a structured literature review table based only on the selected research paper sources.
+
+Use the following columns:
+
+1. Study
+   - Include the first author or author group and publication year.
+   - Format: Author et al. [Year].
+
+2. Task Setting
+   - Briefly describe the forecasting or prediction task.
+   - Include relevant variables, forecasting setup, prediction horizon, or application scenario.
+
+3. Model(s) Evaluated
+   - List the machine learning, deep learning, statistical, baseline, or time-series forecasting models evaluated in the study.
+
+4. Metrics
+   - List the evaluation metrics used, such as R², RMSE, MAE, MSE, MAPE, or other metrics reported in the study.
+
+5. Local Context
+   - Describe the application domain or experimental environment, such as greenhouse, plant growth chamber, agriculture, energy, weather, or another relevant setting.
+
+Requirements:
+- Create one row for each relevant study.
+- Extract information accurately from the provided sources only.
+- Keep each cell concise and suitable for an academic literature review.
+- Do not invent or infer information that is not explicitly stated in the sources.
+- If information for a column is unavailable, write "Not reported".
+- Use consistent terminology and formatting across all rows.
+- Prioritize information related to time-series forecasting and the research context of the reviewed literature.
