@@ -1,5 +1,7 @@
 Create a structured literature review table based only on the selected research paper sources.
 
+IMPORTANT: Include exactly ONE row for each research paper. Do not create multiple rows for different experiments, datasets, models, or tasks within the same paper.
+
 Use the following columns:
 
 1. Study
@@ -7,20 +9,23 @@ Use the following columns:
    - Format: Author et al. [Year].
 
 2. Task Setting
-   - Briefly describe the forecasting or prediction task.
-   - Include relevant variables, forecasting setup, prediction horizon, or application scenario.
+   - Provide a concise summary of the main forecasting or prediction task addressed in the paper.
+   - If the paper includes multiple tasks, summarize the overall or primary task in one cell.
 
 3. Model(s) Evaluated
-   - List the machine learning, deep learning, statistical, baseline, or time-series forecasting models evaluated in the study.
+   - List the main machine learning, deep learning, statistical, baseline, or time-series forecasting models evaluated in the paper.
+   - Do not create separate rows for individual models.
 
 4. Metrics
-   - List the evaluation metrics used, such as R², RMSE, MAE, MSE, MAPE, or other metrics reported in the study.
+   - List the main evaluation metrics reported in the paper.
 
 5. Local Context
-   - Describe the application domain or experimental environment, such as greenhouse, plant growth chamber, agriculture, energy, weather, or another relevant setting.
+   - Describe the primary application domain or experimental environment, such as greenhouse, plant growth chamber, agriculture, energy, weather, or another relevant setting.
 
 Requirements:
-- Create one row for each relevant study.
+- Create exactly one row per research paper.
+- Each source paper must appear only once in the table.
+- Consolidate information from multiple experiments, datasets, tasks, or models within the same paper into a single row.
 - Extract information accurately from the provided sources only.
 - Keep each cell concise and suitable for an academic literature review.
 - Do not invent or infer information that is not explicitly stated in the sources.
