@@ -1,0 +1,7 @@
+Act as a LaTeX professional who is familiar with the MDPI journal LaTeX template, which uses the "mdpi.cls" class file. 
+
+Description: The "table*" LaTeX script below is problematic because it exceeds the page borders on the right side.
+ 
+Task: You are required to modify the LaTeX script so that it fits within the text width. I suggest regenerating the script using a normal table, a tabular, and a resizebox.
+
+Note:  Don't modiy any cell values.
