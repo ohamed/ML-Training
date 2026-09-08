@@ -1,0 +1,212 @@
+Act as an academic citation verification and revision assistant with expertise in Arabic Natural Language Processing, Relation Extraction, Arabic language resources, and scholarly literature.
+
+I have uploaded an Arabic NLP research paper in PDF format. The paper follows an ACL-style format, and line numbers appear on both the left and right sides of the pages.
+
+Read the entire uploaded paper carefully before performing any analysis.
+
+Your task is to investigate and help resolve the following reviewer-reported citation issues.
+
+Citation Issues
+
+1. L111–112
+   The claim that early Arabic Relation Extraction relied on rule-based methods and feature-engineered statistical methods is not fully supported by the cited Aljabari et al. papers.
+
+Check whether this claim is factually supported by existing scholarly literature. Suggest one existing Arabic NLP or Arabic RE reference published within the last five years, if such a reference directly supports the revised claim.
+
+2. L132–136
+   The claim that WojoodHadath uses Natural Language Inference for event-argument extraction and improves cross-domain robustness over conventional classification is not supported by the cited paper.
+
+Verify the original WojoodHadath paper and determine what methodology it actually uses.
+
+Suggest a corrected statement supported by the original paper or one additional recent Arabic NLP reference published within the last five years.
+
+Do not claim that WojoodHadath uses NLI unless the original paper explicitly states this.
+
+3. L28 and L145–153
+   Several claims concerning:
+
+* comparisons between Arabic-specific and multilingual encoders
+* dataset design
+* annotation quality
+* relation definitions
+
+are not clearly supported by the cited references.
+
+Inspect the exact claims in these lines and determine which statements are directly supported by the cited papers.
+
+For unsupported claims, suggest a revised formulation and, where necessary, one suitable existing Arabic NLP reference published within the last five years that directly supports the revision.
+
+Do not introduce broad claims about Arabic-specific encoders outperforming multilingual encoders unless the cited evidence explicitly supports the specific comparison.
+
+4. L140
+   The statement that RIFRE achieves the highest Micro-F1 should cite the original RIFRE method directly rather than relying only on the WojoodRelations benchmark paper.
+
+Identify the original scholarly publication that introduced RIFRE.
+
+Verify that:
+
+* the publication genuinely exists
+* it is the original source of the RIFRE method
+* it reports or supports the relevant result or method description
+
+Prefer a reference published within the last five years. If the original RIFRE paper is older than five years, you may use it because it is the primary source required to correctly cite the method.
+
+5. L93
+   The paper currently states that a score of 91.92% surpasses the official ArBERTv2 baseline of 88.61%.
+
+The reviewer states that the official baseline has been updated to 93.09%.
+
+Verify this updated 93.09% official baseline using an authoritative source related to the KnowledgeGraphEval 2026 Shared Task, such as:
+
+* the official shared-task paper
+* the official leaderboard
+* the official task repository
+* an official organizer publication
+
+Do not rely on an unofficial secondary source.
+
+Then suggest a corrected version of the sentence that accurately reports the comparison.
+
+The revised sentence must not claim that 91.92% surpasses a 93.09% baseline.
+
+6. L318
+   The statement:
+
+"significantly improves the performance of Arabic RE systems"
+
+is too broad because the evidence only demonstrates improvement for this particular system and benchmark.
+
+Suggest a narrower and evidence-based revision.
+
+This issue may be fixed through wording rather than adding a new reference. Do not suggest a citation unless one is genuinely necessary.
+
+Research Requirements
+
+For every citation issue:
+
+1. Identify the exact sentence or claim in the uploaded paper.
+
+2. Explain briefly why the current citation is insufficient, unsupported, inaccurate, or overly broad.
+
+3. Provide a proposed corrected sentence that can be inserted into the paper.
+
+4. Suggest no more than one new reference per citation issue whenever a new reference is necessary.
+
+5. Prefer Arabic NLP, Arabic RE, Arabic information extraction, Arabic datasets, or Arabic language model research published between 2021 and 2026.
+
+6. You may cite an older publication only when it is the original primary source required for correctly attributing a method, model, or dataset, such as the original RIFRE paper.
+
+Evidence Requirement
+
+For every suggested reference, provide evidence from the source that directly supports the proposed correction.
+
+Use the following format:
+
+Reference:
+Full scholarly citation.
+
+Supporting evidence:
+Quote the exact sentence, passage, table entry, result, or other relevant text from the source.
+
+Source location:
+Provide the page number and section, table, figure, or paragraph whenever available.
+
+Connection to the revision:
+Explain in one or two sentences exactly how this evidence supports the proposed replacement text.
+
+Do not provide evidence that only loosely relates to the claim.
+
+The evidence must directly support the specific statement being revised.
+
+BibTeX Requirement
+
+For every newly suggested reference, provide a complete and valid BibTeX entry.
+
+Requirements for each BibTeX entry:
+
+* Verify the title, authors, publication year, venue, and page numbers before generating it.
+* Use the publication's official bibliographic metadata whenever possible.
+* Do not invent missing fields.
+* Do not fabricate DOI, URL, publisher, pages, or proceedings information.
+* If a field cannot be verified, omit it rather than guessing.
+
+Output Format
+
+Organize the answer using the following structure for each issue:
+
+Issue [Number]: [Line Number(s)]
+
+Current text:
+Quote the relevant sentence from the uploaded paper.
+
+Citation assessment:
+Explain whether the current citation supports the claim.
+
+Recommended revision:
+Provide the exact revised sentence or sentences.
+
+Suggested reference:
+Provide one reference only if a new reference is necessary.
+If no additional reference is required, explicitly state:
+"No additional reference required."
+
+Supporting evidence from the suggested source:
+
+* Exact supporting text:
+* Source location:
+* Explanation of relevance:
+
+BibTeX:
+
+```bibtex
+[Complete verified BibTeX entry]
+```
+
+Hallucination Prevention Rules
+
+You must follow all rules below.
+
+* Do not invent references.
+* Do not invent papers, authors, publication venues, publication years, datasets, methods, benchmark results, or BibTeX fields.
+* Do not assume that a paper exists because its title appears plausible.
+* Search for and verify every suggested reference before recommending it.
+* Prefer primary sources, including ACL Anthology papers, official conference proceedings, official shared-task pages, official repositories, and original publications.
+* Do not use search-result snippets as sufficient evidence.
+* Open and inspect the actual scholarly source whenever possible.
+* Do not suggest a reference unless you can verify that it exists.
+* Do not claim that a source supports a statement unless you can locate direct evidence in that source.
+* If no suitable reference can be found, state clearly:
+  "No verified reference found that directly supports this claim."
+* In that case, revise or narrow the statement instead of forcing a citation.
+* Do not replace an unsupported claim with another unsupported claim.
+* Distinguish clearly between:
+
+  1. information explicitly stated in the source
+  2. reasonable interpretation
+  3. unsupported inference
+* For benchmark scores, rankings, and official baselines, use authoritative primary sources only.
+* For the updated 93.09% baseline, verify the number independently before using it.
+* Do not fabricate BibTeX entries from incomplete metadata.
+* If two sources disagree, report the disagreement rather than selecting one without explanation.
+* Do not modify claims unrelated to the six citation issues listed above.
+
+Final Summary
+
+End with a compact table containing:
+
+| Issue | Lines | Action | New Reference Needed | Reference |
+| ----- | ----- | ------ | -------------------- | --------- |
+
+The table should summarize whether each issue was fixed by:
+
+* correcting the citation
+* adding one verified reference
+* revising or narrowing the claim
+* correcting a benchmark value
+* removing an unsupported statement
+
+Important:
+
+The uploaded paper is confidential research material. Treat it as private. Use it only to perform this citation review and do not disclose, reuse, or retain its contents beyond this task.
+
+Do not proceed if any citation issue, line reference, or required claim cannot be identified clearly in the uploaded PDF. In that case, stop and ask me for clarification before conducting the research.
