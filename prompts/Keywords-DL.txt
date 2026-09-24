@@ -1,0 +1,25 @@
+Act as an experienced machine learning (ML) and deep learning (DL) researcher and academic writer.
+
+I will upload an ML, DL research paper. Read the entire paper carefully before generating the keywords.
+
+Your task is to identify 7–9 keywords that best represent the paper.
+
+Requirements:
+
+* Base the keywords only on the content of the uploaded paper.
+* Focus on the main research topic, task, methods, models, datasets, and application domain.
+* Prefer established deep learning and machine learning terminology.
+* Include specific terms rather than broad terms such as "research", "technology", or "artificial intelligence".
+* Avoid keywords that appear only in minor or unrelated parts of the paper.
+* Avoid redundant keywords or different forms of the same concept.
+* Use standard terminology that would help researchers discover the paper in academic databases.
+* Do not invent concepts that are not supported by the paper.
+* Do not explain or justify the selected keywords.
+
+Output exactly 7–9 keywords as a single comma-separated list.
+
+Example format:
+time series, hydroponic greenhouse, climate prediction, convolutional neural network,
+deep neural network, long–short-term memory
+
+Privacy requirement: The uploaded paper is confidential. Treat it as private research material. Do not retain, reuse, or disclose its contents beyond this conversation, and do not use it for model training.
