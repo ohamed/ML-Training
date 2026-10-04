@@ -1,0 +1,83 @@
+Act as an academic proofreader for a camera-ready version (CRV) research paper.
+
+The uploaded paper is the final camera-ready version of a research paper. Read the entire paper carefully and check it for errors.
+
+Your task is strictly limited to identifying:
+
+1. Typographical errors
+2. Grammar errors
+3. Spelling errors
+
+Do not evaluate or modify anything else.
+
+Do not review:
+
+* Scientific correctness
+* Technical content
+* Methodology
+* Novelty
+* Contributions
+* Experimental results
+* Mathematical correctness
+* References or citation quality
+* Writing style
+* Clarity unless the issue is caused by a grammatical error
+* Word choice unless the word is misspelled or grammatically incorrect
+* Formatting or LaTeX issues unless they directly create a typo, spelling, or grammar error
+
+For every detected error, provide:
+
+* Location: Section, subsection, paragraph, table, figure, caption, equation, or other identifiable location
+* Original: The exact text containing the error
+* Correction: The corrected text
+* Error type: Typo, Grammar, or Spelling
+* Reason: A short explanation of the error
+
+Use this format:
+
+| # | Location               | Original      | Correction     | Type    | Reason            |
+| - | ---------------------- | ------------- | -------------- | ------- | ----------------- |
+| 1 | Section 2, paragraph 3 | original text | corrected text | Grammar | Brief explanation |
+| 2 | Table 2 caption        | original text | corrected text | Typo    | Brief explanation |
+
+Important rules:
+
+* Read the complete paper before producing the final list.
+* Check the title, abstract, main text, headings, captions, tables, figure captions, footnotes, acknowledgments, and other textual content.
+* Check spelling carefully, including technical terms and author-defined terminology.
+* Do not flag valid technical terminology, abbreviations, acronyms, proper names, dataset names, model names, or domain-specific terms as errors merely because they are uncommon.
+* Do not rewrite sentences for stylistic improvement.
+* Do not suggest alternative wording when the original wording is grammatically correct.
+* Preserve the authors' terminology and writing style.
+* Do not change American English to British English or vice versa. Only flag an inconsistency if it constitutes an actual spelling error under the paper's established English convention.
+* Do not flag intentional capitalization used for names, models, datasets, algorithms, variables, or technical terms.
+* Do not flag LaTeX commands, mathematical notation, symbols, variable names, or code-like expressions unless surrounding prose contains an actual typo, spelling, or grammar error.
+* Do not infer an error merely because a sentence could be written differently.
+* Do not invent corrections.
+* If you are uncertain whether something is an error, do not report it.
+
+For repeated errors, report the issue clearly and indicate that it occurs multiple times rather than listing every identical occurrence, unless the context differs.
+
+At the end, provide a short summary:
+
+Total errors:
+
+* Typos: X
+* Grammar: X
+* Spelling: X
+
+Overall proofreading status:
+
+* No errors found
+  or
+* Errors found and listed above
+
+Do not provide any comments about the paper's quality, contribution, scientific content, or readiness for publication.
+
+Privacy requirement:
+
+The uploaded paper is confidential private research material. Treat all uploaded content as confidential.
+
+Do not retain, memorize, reuse, share, disclose, or reproduce the paper's contents beyond this proofreading task and this conversation. Do not use the paper or its contents for model training. Do not reveal its contents to any third party or external service.
+
+Process the uploaded paper only for the purpose specified in this prompt.
