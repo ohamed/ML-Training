@@ -1,0 +1,311 @@
+Act as a researcher specializing in Natural Language Processing, language assessment, psycholinguistics, and computer-assisted language learning.
+
+I am preparing a research paper on the automatic generation of Lexical Recognition Tests (LRTs) using Natural Language Processing and Large Language Models.
+
+I will upload a set of my research papers published between 2015 and 2019. These papers focus on LRT generation using NLP techniques and should serve as the historical foundation for the literature review.
+
+Your task is to write a comprehensive, critical, and chronologically structured literature review on the generation of Lexical Recognition Tests and related lexical vocabulary assessment instruments.
+
+Use the uploaded papers as primary sources for the period 2015–2019. Then extend the literature review by identifying relevant peer-reviewed research published from 2020 through 2026.
+
+Research scope
+
+Focus on research related to:
+
+- Lexical Recognition Tests and their development
+- Automatic or semi-automatic generation of LRTs
+- Vocabulary assessment and lexical knowledge testing
+- NLP-based generation of vocabulary assessment items
+- Computational approaches to selecting words and nonwords for lexical tests
+- Automatic generation of lexical decision tasks
+- Computational psycholinguistics approaches relevant to LRT construction
+- Word frequency, lexical frequency, familiarity, length, morphology, and other lexical properties used for item selection
+- Distractor and nonword generation
+- Validation and quality control of automatically generated test items
+- Human evaluation of generated lexical test items
+- Machine learning approaches for lexical assessment
+- Transformer-based approaches to lexical assessment
+- Large Language Models and generative AI for language-test or vocabulary-item generation
+- Recent work using LLMs to generate, evaluate, or validate language assessment items
+
+Important distinction
+
+Keep the focus on LRT generation rather than general language assessment.
+
+Do not fill the review with studies that only discuss vocabulary learning, vocabulary acquisition, language proficiency, or general NLP unless they provide a clear methodological connection to LRT construction or automatic lexical test generation.
+
+Literature search period
+
+1. 2015–2019
+
+Use the uploaded papers as the main sources.
+
+Identify how these studies approached LRT generation using NLP techniques. Extract their:
+
+- Research objectives
+- LRT generation methodology
+- NLP techniques
+- Linguistic resources
+- Word-selection criteria
+- Nonword-generation methods
+- Filtering and validation procedures
+- Human evaluation procedures
+- Experimental setup
+- Main findings
+- Limitations
+
+2. 2020–2026
+
+Search for additional relevant research published from 2020 through the current date.
+
+Give particular attention to developments involving:
+
+- Transformer models
+- Pre-trained language models
+- BERT and related models
+- Generative language models
+- Large Language Models
+- LLM-based item generation
+- Automatic test generation
+- AI-assisted language assessment
+- Psychometric validation of automatically generated items
+- Computational methods for lexical assessment
+
+Literature review structure
+
+Organize the review into the following sections.
+
+1. Introduction to LRTs and lexical recognition assessment
+
+Explain what an LRT measures and how it differs from other vocabulary and language assessment instruments.
+
+Discuss the importance of word and nonword selection.
+
+2. Early computational approaches to LRT generation
+
+Review the 2015–2019 uploaded studies.
+
+Explain how NLP was used to automate or support LRT construction.
+
+Compare the approaches rather than describing each paper independently.
+
+3. NLP-based LRT generation
+
+Synthesize the computational techniques used for:
+
+- Candidate word selection
+- Word filtering
+- Frequency-based selection
+- Linguistic annotation
+- Morphological analysis
+- Nonword generation
+- Distractor construction
+- Item validation
+
+Identify common methodological patterns and differences between studies.
+
+4. Developments from 2020 onward
+
+Review how approaches changed after 2020.
+
+Discuss the transition from traditional NLP and rule-based methods toward machine learning, neural models, transformers, and generative models.
+
+5. LLMs and generative AI for lexical test generation
+
+Identify relevant research involving LLMs or generative AI.
+
+Discuss whether LLMs have been used to:
+
+- Generate candidate words
+- Generate nonwords
+- Generate complete lexical tests
+- Filter or rank candidate items
+- Evaluate lexical items
+- Validate generated test items
+- Replace or complement traditional NLP pipelines
+
+Clearly distinguish direct evidence from studies that are only indirectly relevant.
+
+6. Validation of automatically generated LRTs
+
+Review how researchers validate generated lexical tests.
+
+Discuss:
+
+- Human evaluation
+- Expert judgments
+- Native-speaker judgments
+- Pilot testing
+- Psychometric analysis
+- Reliability
+- Validity
+- Item difficulty
+- Discrimination
+- Statistical testing
+
+Highlight which validation procedures are well established and which remain underdeveloped.
+
+7. Research gap
+
+Identify the main limitations in existing research.
+
+Pay particular attention to:
+
+- Limited use of modern LLMs for LRT generation
+- Lack of systematic comparison between traditional NLP and LLM-based approaches
+- Lack of transparent stimulus-generation pipelines
+- Limited human validation
+- Limited psychometric validation
+- Lack of reproducibility
+- Lack of systematic evaluation of generated nonwords
+- Lack of comparison between different LLMs
+- Lack of studies examining whether LLM-generated LRT items preserve the properties of established LRTs
+
+Use this section to establish a clear research gap that can motivate a new study on LLM-generated LRTs.
+
+8. Summary and research direction
+
+Summarize the evolution of LRT generation from traditional NLP methods to current generative AI approaches.
+
+Explain what remains unresolved and what future research should investigate.
+
+Critical synthesis
+
+Do not write a paper-by-paper annotated bibliography.
+
+Instead:
+
+- Compare methodologies.
+- Identify trends.
+- Explain methodological improvements over time.
+- Identify contradictions between studies.
+- Discuss limitations.
+- Explain why particular approaches were adopted.
+- Identify unresolved problems.
+- Connect older NLP approaches with current LLM-based approaches.
+
+Create a conceptual evolution such as:
+
+Traditional lexical resources → NLP-based generation → machine learning → neural/transformer approaches → LLM-based generation.
+
+However, only include stages supported by the literature.
+
+References and citations
+
+Use academic and peer-reviewed sources whenever possible.
+
+Prioritize:
+
+- Journal articles
+- Conference papers
+- Book chapters from established academic publishers
+- Peer-reviewed workshop papers when directly relevant
+- Highly relevant theses or dissertations when they provide foundational work
+
+Use authoritative sources such as ACL Anthology, Google Scholar-indexed publications, Springer, Elsevier, Wiley, Taylor & Francis, IEEE, ACM, Frontiers, and other established academic publishers.
+
+Do not rely on blogs, commercial websites, Wikipedia, or unsourced web pages for academic claims.
+
+For every important factual claim, provide an appropriate citation.
+
+Do not invent references, publication details, authors, DOIs, or results.
+
+Verify each reference before including it.
+
+Citation requirements
+
+Use author–year citations in the literature review, for example:
+
+(Smith et al., 2022)
+
+At the end, provide a complete reference list containing:
+
+- Authors
+- Year
+- Title
+- Venue
+- Volume/issue when available
+- Pages when available
+- DOI when available
+- URL when appropriate
+
+Clearly distinguish references obtained from my uploaded papers from newly identified references.
+
+Evidence requirements
+
+For each major methodological claim, identify the supporting source.
+
+When discussing a specific study, report only findings that can be verified from the source.
+
+If evidence is insufficient, explicitly state that the evidence is limited rather than inferring a conclusion.
+
+Do not claim that a method is novel unless the literature search supports that conclusion.
+
+Literature coverage
+
+Search broadly enough to identify relevant terminology and related work.
+
+Use combinations of terms such as:
+
+"Lexical Recognition Test"
+
+"LRT generation"
+
+"Lexical Recognition Test generation"
+
+"automatic LRT generation"
+
+"automated vocabulary test generation"
+
+"lexical test generation"
+
+"lexical decision test generation"
+
+"automatic lexical assessment"
+
+"vocabulary test item generation"
+
+"automatic vocabulary assessment"
+
+"NLP vocabulary assessment"
+
+"natural language processing lexical assessment"
+
+"nonword generation lexical test"
+
+"LLM vocabulary assessment"
+
+"large language models language assessment"
+
+"LLM test item generation"
+
+"generative AI language assessment"
+
+"automatic language assessment item generation"
+
+Do not assume that relevant studies use the term "LRT". Identify studies using related terminology when their methodology is directly relevant.
+
+Output requirements
+
+Write the literature review in academic style suitable for inclusion in a research paper.
+
+Target approximately 3,000–5,000 words, excluding the reference list.
+
+Use clear section headings.
+
+Maintain a coherent chronological and methodological narrative.
+
+Do not merely summarize individual papers.
+
+End with a concise research-gap statement that directly motivates research on LLM-based generation of Lexical Recognition Tests.
+
+Before writing the final literature review, first analyze the uploaded papers and identify:
+
+1. The papers that are directly relevant to LRT generation.
+2. The main methodological approaches represented in the uploaded literature.
+3. Important terminology and concepts that should be followed in the 2020–2026 literature search.
+4. Missing areas that require additional literature.
+
+Then conduct the external literature search and write the final review.
+
+The uploaded papers should be treated as an important part of the evidence base, but they should not restrict the search. Add relevant literature from 2020 through 2026 where it strengthens the review.
