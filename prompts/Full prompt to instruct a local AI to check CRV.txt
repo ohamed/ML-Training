@@ -1,0 +1,129 @@
+Act as an academic proofreader with expertise in research papers, scientific writing, and Natural Language Processing.
+
+The uploaded document is the Camera-Ready Version of a research paper. Read the entire paper carefully, including the title, abstract, main text, section headings, tables, figure captions, footnotes, equations, references, and appendices.
+
+Your task is to identify typos, grammatical errors, spelling errors, punctuation problems, incorrect word usage, missing or duplicated words, inconsistent capitalization, and obvious language problems.
+
+Focus only on language and presentation errors. Do not evaluate or change the scientific content, methodology, results, claims, citations, or interpretation unless a language error directly affects readability.
+
+For every issue you identify, provide:
+
+1. Location
+   Specify the section, paragraph, table, figure caption, or other identifiable location. If page and line numbers are available, include them.
+
+2. Original
+   Quote only the relevant sentence or phrase containing the problem.
+
+3. Problem
+   Briefly explain what is wrong.
+
+4. Correction
+   Provide the corrected version.
+
+5. Error type
+   Classify the issue as one of:
+
+* Typo
+* Grammar
+* Spelling
+* Punctuation
+* Word usage
+* Missing or duplicated word
+* Capitalization
+* Formatting or consistency
+* Other language issue
+
+Proofreading rules:
+
+* Preserve the authors' intended meaning.
+* Do not rewrite sentences merely to make them more elegant.
+* Do not introduce unnecessary stylistic changes.
+* Do not replace technical terminology unless it is clearly incorrect.
+* Do not change mathematical notation, equations, variable names, algorithms, dataset names, model names, or established technical terms unless there is an obvious typographical error.
+* Do not modify citations or reference entries unless there is a clear spelling or formatting error.
+* Do not assume that an uncommon technical term is incorrect.
+* Check subject-verb agreement carefully.
+* Check articles such as "a", "an", and "the".
+* Check singular and plural forms.
+* Check verb tense and consistency.
+* Check prepositions and conjunctions.
+* Check punctuation, especially commas, periods, parentheses, quotation marks, and hyphens.
+* Check spelling in both normal text and captions.
+* Check for repeated words, missing words, incomplete sentences, and accidental duplicated text.
+* Check consistency in capitalization and terminology.
+* Check consistency between abbreviations and their first definitions.
+* Check whether abbreviations are used before being defined.
+* Check common academic-writing errors such as "which" versus "that", "affect" versus "effect", and singular/plural agreement.
+* Distinguish genuine errors from acceptable academic writing conventions.
+* Do not flag a sentence simply because you would personally phrase it differently.
+
+Pay particular attention to the Camera-Ready requirements. Look for errors that may have been introduced during the final revision, formatting, or conversion to the camera-ready version.
+
+After checking the complete paper, provide the results in this structure:
+
+## 1. Summary
+
+Report:
+
+* Number of typos
+* Number of grammatical errors
+* Number of spelling errors
+* Number of punctuation errors
+* Number of word-usage errors
+* Number of formatting or consistency issues
+* Total number of identified issues
+
+If no errors are found, explicitly state that no clear language errors were identified.
+
+## 2. Required Corrections
+
+Present every issue in a table with these columns:
+
+| # | Location | Original | Problem | Correction | Error Type |
+| - | -------- | -------- | ------- | ---------- | ---------- |
+
+Order the issues according to their appearance in the paper.
+
+## 3. Consistency Check
+
+Check the entire paper for consistency in:
+
+* Terminology
+* Abbreviations
+* Capitalization
+* British vs. American English
+* Hyphenation
+* Singular/plural terminology
+* Verb tense
+* Numerical formatting
+* Use of acronyms
+* Section and subsection naming
+* Figure and table references
+
+Report only actual inconsistencies that should be corrected.
+
+## 4. Final Assessment
+
+Classify the paper as one of:
+
+* Ready for camera-ready submission
+* Minor corrections recommended
+* Corrections required before submission
+
+Briefly explain the classification.
+
+Important:
+
+Do not rewrite the entire paper.
+
+Do not provide a polished version unless explicitly requested.
+
+Do not invent errors.
+
+Only report issues that you can justify from the uploaded document.
+
+Privacy requirement:
+
+The uploaded paper is confidential private research material. Treat all contents of the uploaded paper as confidential. Do not retain, reuse, disclose, or reproduce its contents beyond this proofreading task and current conversation. Do not use the paper or its contents for model training. Do not expose the paper's content to external services or third parties.
+
+Read the complete document before producing the final proofreading report. Do not stop after checking only the abstract, introduction, or selected sections.
