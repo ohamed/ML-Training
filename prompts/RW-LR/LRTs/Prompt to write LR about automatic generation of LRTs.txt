@@ -1,251 +1,367 @@
-Act as a researcher specializing in Natural Language Processing, language assessment, psycholinguistics, and computer-assisted language learning.
+Act as a researcher specializing in Natural Language Processing, psycholinguistics, vocabulary assessment, language testing, computational linguistics, and Large Language Models.
 
-I am preparing a research paper on the automatic generation of Lexical Recognition Tests (LRTs) using Natural Language Processing and Large Language Models.
+I am preparing a journal research paper on the automatic generation of Lexical Recognition Tests (LRTs) using Natural Language Processing and Large Language Models.
 
-I will upload a set of my research papers published between 2015 and 2019. These papers focus on LRT generation using NLP techniques and should serve as the historical foundation for the literature review.
+I will upload a collection of my research papers published between 2015 and 2019. These papers focus on LRT generation using NLP techniques and should form the historical foundation of the literature review.
 
-Your task is to write a comprehensive, critical, and chronologically structured literature review on the generation of Lexical Recognition Tests and related lexical vocabulary assessment instruments.
+Your task is to produce a literature review that can be directly integrated into a journal paper following the IMRaD structure.
 
-Use the uploaded papers as primary sources for the period 2015–2019. Then extend the literature review by identifying relevant peer-reviewed research published from 2020 through 2026.
+The literature review should primarily support the Introduction and, where appropriate, the Related Work or Background section of the paper.
 
-Research scope
+Do not write the review as a standalone survey article.
 
-Focus on research related to:
+1. Research focus
 
-- Lexical Recognition Tests and their development
-- Automatic or semi-automatic generation of LRTs
-- Vocabulary assessment and lexical knowledge testing
-- NLP-based generation of vocabulary assessment items
-- Computational approaches to selecting words and nonwords for lexical tests
-- Automatic generation of lexical decision tasks
-- Computational psycholinguistics approaches relevant to LRT construction
-- Word frequency, lexical frequency, familiarity, length, morphology, and other lexical properties used for item selection
-- Distractor and nonword generation
-- Validation and quality control of automatically generated test items
-- Human evaluation of generated lexical test items
-- Machine learning approaches for lexical assessment
-- Transformer-based approaches to lexical assessment
-- Large Language Models and generative AI for language-test or vocabulary-item generation
-- Recent work using LLMs to generate, evaluate, or validate language assessment items
+Focus specifically on the generation of Lexical Recognition Tests and closely related computational approaches.
 
-Important distinction
+Cover:
 
-Keep the focus on LRT generation rather than general language assessment.
+- Lexical Recognition Tests and lexical vocabulary assessment
+- Automatic and semi-automatic LRT generation
+- NLP-based LRT generation
+- Automatic word selection
+- Word frequency and lexical characteristics
+- Word familiarity and lexical difficulty
+- Morphological and linguistic features
+- Nonword generation
+- Distractor generation
+- Automatic filtering of candidate items
+- Human validation of generated items
+- Psychometric validation of lexical tests
+- Machine learning approaches
+- Neural approaches
+- Transformer-based approaches
+- Large Language Models
+- Generative AI for language assessment and test-item generation
 
-Do not fill the review with studies that only discuss vocabulary learning, vocabulary acquisition, language proficiency, or general NLP unless they provide a clear methodological connection to LRT construction or automatic lexical test generation.
+Keep the focus on LRT generation.
 
-Literature search period
+Do not include general vocabulary-learning literature unless it provides a direct methodological or conceptual contribution to LRT construction or automatic lexical assessment.
 
-1. 2015–2019
+2. Analysis of the uploaded 2015–2019 literature
 
-Use the uploaded papers as the main sources.
+Treat the uploaded papers as primary sources for the 2015–2019 period.
 
-Identify how these studies approached LRT generation using NLP techniques. Extract their:
+First analyze the uploaded papers and identify:
 
-- Research objectives
-- LRT generation methodology
-- NLP techniques
-- Linguistic resources
-- Word-selection criteria
-- Nonword-generation methods
-- Filtering and validation procedures
-- Human evaluation procedures
-- Experimental setup
-- Main findings
-- Limitations
+- The studies directly related to LRT generation
+- Their research objectives
+- Their NLP methodologies
+- Their word-selection strategies
+- Their nonword-generation methods
+- Their filtering procedures
+- Their validation methods
+- Their evaluation criteria
+- Their main findings
+- Their limitations
+- Their contribution to the development of automatic LRT generation
 
-2. 2020–2026
+Do not assume that every uploaded paper is equally relevant.
 
-Search for additional relevant research published from 2020 through the current date.
+Use the papers that are directly relevant to construct the historical narrative.
 
-Give particular attention to developments involving:
+3. Literature from 2020 to 2026
 
+Extend the literature review by searching for relevant academic publications from 2020 through the current date.
+
+Search for developments involving:
+
+- NLP-based lexical assessment
+- Automatic vocabulary test generation
+- Automatic language-test item generation
+- Lexical decision tasks
+- Computational psycholinguistics
 - Transformer models
-- Pre-trained language models
 - BERT and related models
+- Pre-trained language models
 - Generative language models
 - Large Language Models
-- LLM-based item generation
-- Automatic test generation
+- LLM-based language assessment
+- LLM-based test-item generation
 - AI-assisted language assessment
-- Psychometric validation of automatically generated items
-- Computational methods for lexical assessment
+- Automatic evaluation of generated assessment items
 
-Literature review structure
+Search beyond the term "Lexical Recognition Test".
 
-Organize the review into the following sections.
+Relevant studies may use different terminology.
 
-1. Introduction to LRTs and lexical recognition assessment
+Include studies only when there is a clear methodological or conceptual connection to automatic lexical assessment, vocabulary test generation, lexical decision testing, or automatic generation and validation of language-test items.
 
-Explain what an LRT measures and how it differs from other vocabulary and language assessment instruments.
+4. Chronological development
 
-Discuss the importance of word and nonword selection.
+Organize the literature around the evolution of the field.
 
-2. Early computational approaches to LRT generation
+Where supported by the literature, describe the development from:
 
-Review the 2015–2019 uploaded studies.
+Traditional lexical resources and rule-based approaches
 
-Explain how NLP was used to automate or support LRT construction.
+→ NLP-based LRT generation
 
-Compare the approaches rather than describing each paper independently.
+→ machine-learning approaches
 
-3. NLP-based LRT generation
+→ neural approaches
 
-Synthesize the computational techniques used for:
+→ transformer-based approaches
 
-- Candidate word selection
-- Word filtering
-- Frequency-based selection
-- Linguistic annotation
-- Morphological analysis
-- Nonword generation
-- Distractor construction
-- Item validation
+→ LLM-based and generative-AI approaches
 
-Identify common methodological patterns and differences between studies.
+Do not force this progression if the literature does not support it.
 
-4. Developments from 2020 onward
+The review should explain what changed at each stage and why newer approaches may address limitations of earlier methods.
 
-Review how approaches changed after 2020.
+5. Critical synthesis
 
-Discuss the transition from traditional NLP and rule-based methods toward machine learning, neural models, transformers, and generative models.
+Do not produce a paper-by-paper annotated bibliography.
 
-5. LLMs and generative AI for lexical test generation
+Instead:
 
-Identify relevant research involving LLMs or generative AI.
+- Compare approaches.
+- Identify methodological trends.
+- Compare word-selection strategies.
+- Compare nonword-generation strategies.
+- Compare validation procedures.
+- Identify strengths and limitations.
+- Explain methodological changes over time.
+- Identify unresolved problems.
+- Connect earlier NLP approaches with current LLM-based approaches.
 
-Discuss whether LLMs have been used to:
+Where multiple studies report similar findings, synthesize them rather than describing them separately.
 
-- Generate candidate words
+6. LLMs and LRT generation
+
+Give particular attention to the role of modern LLMs.
+
+Determine whether existing research has used LLMs to:
+
+- Generate candidate lexical items
+- Select words
 - Generate nonwords
+- Generate distractors
 - Generate complete lexical tests
-- Filter or rank candidate items
+- Rank candidate stimuli
+- Filter candidate stimuli
 - Evaluate lexical items
-- Validate generated test items
-- Replace or complement traditional NLP pipelines
+- Perform human-like judgments of lexical items
+- Validate generated assessment items
 
-Clearly distinguish direct evidence from studies that are only indirectly relevant.
+Clearly distinguish between:
 
-6. Validation of automatically generated LRTs
+A. Studies that directly generate LRTs or lexical assessment items using LLMs.
 
-Review how researchers validate generated lexical tests.
+B. Studies that use LLMs for related language-assessment item generation.
 
-Discuss:
+C. Studies that are relevant to the methodology but do not directly generate LRTs.
 
-- Human evaluation
-- Expert judgments
-- Native-speaker judgments
+Do not present indirect evidence as direct evidence.
+
+7. Validation
+
+Review how automatically generated lexical tests and assessment items are validated.
+
+Discuss, where applicable:
+
+- Expert evaluation
+- Native-speaker evaluation
+- Human judgments
 - Pilot testing
 - Psychometric analysis
 - Reliability
 - Validity
 - Item difficulty
-- Discrimination
-- Statistical testing
+- Item discrimination
+- Response patterns
+- Statistical evaluation
 
-Highlight which validation procedures are well established and which remain underdeveloped.
+Identify weaknesses in existing validation procedures.
 
-7. Research gap
+Pay particular attention to whether previous studies combine automatic generation with human validation.
 
-Identify the main limitations in existing research.
+8. Research gap
 
-Pay particular attention to:
+Identify the specific research gaps that remain.
+
+Consider:
 
 - Limited use of modern LLMs for LRT generation
-- Lack of systematic comparison between traditional NLP and LLM-based approaches
+- Limited comparison between traditional NLP and LLM-based generation
 - Lack of transparent stimulus-generation pipelines
 - Limited human validation
 - Limited psychometric validation
-- Lack of reproducibility
-- Lack of systematic evaluation of generated nonwords
-- Lack of comparison between different LLMs
-- Lack of studies examining whether LLM-generated LRT items preserve the properties of established LRTs
+- Limited evaluation of generated nonwords
+- Lack of systematic comparison between different LLMs
+- Lack of reproducible generation procedures
+- Lack of systematic filtering procedures
+- Lack of studies examining whether LLM-generated LRT items preserve important characteristics of established LRTs
 
-Use this section to establish a clear research gap that can motivate a new study on LLM-generated LRTs.
+Do not claim that a research gap exists merely because you did not find a paper.
 
-8. Summary and research direction
+Support claims about research gaps with the literature search.
 
-Summarize the evolution of LRT generation from traditional NLP methods to current generative AI approaches.
+9. Integration into an IMRaD journal paper
 
-Explain what remains unresolved and what future research should investigate.
+Write the literature review so that it can be incorporated into a journal paper following an IMRaD structure.
 
-Critical synthesis
+The review should primarily provide material suitable for:
 
-Do not write a paper-by-paper annotated bibliography.
+Introduction
 
-Instead:
+- Background
+- Motivation
+- Existing approaches
+- Development of the research area
+- Limitations of existing work
+- Research gap
+- Motivation for the present study
 
-- Compare methodologies.
-- Identify trends.
-- Explain methodological improvements over time.
-- Identify contradictions between studies.
-- Discuss limitations.
-- Explain why particular approaches were adopted.
-- Identify unresolved problems.
-- Connect older NLP approaches with current LLM-based approaches.
+Related Work or Background, if the target journal permits a separate section
 
-Create a conceptual evolution such as:
+- Detailed discussion of previous LRT-generation approaches
+- NLP-based approaches
+- Recent transformer and LLM approaches
+- Validation methodologies
 
-Traditional lexical resources → NLP-based generation → machine learning → neural/transformer approaches → LLM-based generation.
+Do not write sections about Methods, Results, or Discussion unless they are necessary to explain the existing literature.
 
-However, only include stages supported by the literature.
+The literature review should lead naturally toward the motivation for the present research.
 
-References and citations
+The final paragraphs should establish:
 
-Use academic and peer-reviewed sources whenever possible.
+1. What is already known.
+2. What existing approaches can do.
+3. What limitations remain.
+4. What has not yet been adequately investigated.
+5. Why an LLM-based LRT-generation approach is worth investigating.
 
-Prioritize:
+Do not describe my own experimental results because they have not been provided.
 
-- Journal articles
-- Conference papers
-- Book chapters from established academic publishers
-- Peer-reviewed workshop papers when directly relevant
-- Highly relevant theses or dissertations when they provide foundational work
+10. Academic writing style
 
-Use authoritative sources such as ACL Anthology, Google Scholar-indexed publications, Springer, Elsevier, Wiley, Taylor & Francis, IEEE, ACM, Frontiers, and other established academic publishers.
+Write in a style suitable for a peer-reviewed journal article.
 
-Do not rely on blogs, commercial websites, Wikipedia, or unsourced web pages for academic claims.
+Use:
 
-For every important factual claim, provide an appropriate citation.
+- Formal academic language
+- Precise terminology
+- Concise paragraphs
+- Logical transitions
+- Author–year citations
+- Critical synthesis rather than paper-by-paper summaries
 
-Do not invent references, publication details, authors, DOIs, or results.
+Avoid:
 
-Verify each reference before including it.
+- Marketing language
+- Unsupported claims
+- Generic statements about AI
+- Repetition
+- Excessive historical background
+- Claims of novelty without evidence
 
-Citation requirements
+11. References
 
-Use author–year citations in the literature review, for example:
+Use only real, existing academic references.
 
-(Smith et al., 2022)
+This requirement is critical.
 
-At the end, provide a complete reference list containing:
+Do not invent:
 
 - Authors
-- Year
-- Title
-- Venue
-- Volume/issue when available
-- Pages when available
-- DOI when available
-- URL when appropriate
+- Titles
+- Journals
+- Conferences
+- Publication years
+- Volume numbers
+- Issue numbers
+- Page numbers
+- DOIs
+- URLs
+- BibTeX entries
 
-Clearly distinguish references obtained from my uploaded papers from newly identified references.
+Every reference included in the literature review must correspond to an existing publication.
 
-Evidence requirements
+Verify bibliographic information before including a reference.
 
-For each major methodological claim, identify the supporting source.
+Prefer:
 
-When discussing a specific study, report only findings that can be verified from the source.
+- Peer-reviewed journal articles
+- Peer-reviewed conference papers
+- Established academic publishers
+- ACL Anthology publications
+- IEEE publications
+- ACM publications
+- Springer publications
+- Elsevier publications
+- Wiley publications
+- Taylor & Francis publications
+- Other established scholarly venues
 
-If evidence is insufficient, explicitly state that the evidence is limited rather than inferring a conclusion.
+Use theses, dissertations, technical reports, or workshop papers only when they make a meaningful contribution.
 
-Do not claim that a method is novel unless the literature search supports that conclusion.
+12. BibTeX output
 
-Literature coverage
+After the literature review, provide a separate section titled:
 
-Search broadly enough to identify relevant terminology and related work.
+"BibTeX References"
 
-Use combinations of terms such as:
+Provide a BibTeX entry for every reference actually cited in the literature review.
+
+Use standard BibTeX format.
+
+For example:
+
+@article{author2022title,
+  author  = {...},
+  title   = {...},
+  journal = {...},
+  year    = {...},
+  volume  = {...},
+  number  = {...},
+  pages   = {...},
+  doi     = {...}
+}
+
+For conference papers, use the appropriate BibTeX type such as @inproceedings.
+
+For books, use @book.
+
+For dissertations, use @phdthesis or the appropriate entry type.
+
+Important:
+
+- Provide only references that actually exist.
+- Provide only references that were cited in the literature review.
+- Do not add unused references.
+- Do not create placeholder BibTeX entries.
+- Do not guess missing bibliographic information.
+- If a DOI is unavailable, omit the DOI rather than inventing one.
+- If a bibliographic field cannot be verified, omit it rather than guessing.
+- Preserve the correct spelling of author names.
+- Preserve the correct publication title.
+- Use the actual publication year.
+- Ensure that the BibTeX citation key matches the citation used in the literature review where possible.
+
+13. Reference verification
+
+Before producing the final answer, verify every reference.
+
+For each reference, check:
+
+- The publication exists.
+- The authors are correct.
+- The title is correct.
+- The publication year is correct.
+- The venue is correct.
+- DOI information is correct when available.
+- The reference is relevant to the claim for which it is cited.
+
+Do not cite a search-result snippet as if it were the original publication.
+
+Prefer the original publication whenever possible.
+
+If a source cannot be verified, exclude it from the final literature review and BibTeX list.
+
+14. Search strategy
+
+Use combinations of the following terms:
 
 "Lexical Recognition Test"
 
@@ -267,11 +383,13 @@ Use combinations of terms such as:
 
 "automatic vocabulary assessment"
 
-"NLP vocabulary assessment"
-
 "natural language processing lexical assessment"
 
+"NLP vocabulary assessment"
+
 "nonword generation lexical test"
+
+"automatic nonword generation"
 
 "LLM vocabulary assessment"
 
@@ -283,29 +401,59 @@ Use combinations of terms such as:
 
 "automatic language assessment item generation"
 
-Do not assume that relevant studies use the term "LRT". Identify studies using related terminology when their methodology is directly relevant.
+Also search for related terminology used in the uploaded papers.
 
-Output requirements
+15. Final output format
 
-Write the literature review in academic style suitable for inclusion in a research paper.
+Produce the final response in the following order.
 
-Target approximately 3,000–5,000 words, excluding the reference list.
+PART A — Literature Review
 
-Use clear section headings.
+Write approximately 3,000–5,000 words.
 
-Maintain a coherent chronological and methodological narrative.
+Structure the review with meaningful academic headings.
 
-Do not merely summarize individual papers.
+Make it suitable for integration into the Introduction and Related Work sections of an IMRaD journal paper.
 
-End with a concise research-gap statement that directly motivates research on LLM-based generation of Lexical Recognition Tests.
+Use author–year citations throughout.
 
-Before writing the final literature review, first analyze the uploaded papers and identify:
+PART B — Research Gap
 
-1. The papers that are directly relevant to LRT generation.
-2. The main methodological approaches represented in the uploaded literature.
-3. Important terminology and concepts that should be followed in the 2020–2026 literature search.
-4. Missing areas that require additional literature.
+Provide a concise synthesis of the main gaps identified by the literature.
 
-Then conduct the external literature search and write the final review.
+Connect the gaps to the motivation for LLM-based LRT generation.
 
-The uploaded papers should be treated as an important part of the evidence base, but they should not restrict the search. Add relevant literature from 2020 through 2026 where it strengthens the review.
+PART C — BibTeX References
+
+Provide BibTeX entries for every reference cited in Parts A and B.
+
+Do not provide references that were not cited.
+
+PART D — Reference Verification Table
+
+Provide a compact table with:
+
+| Citation Key | Authors | Year | Publication | Venue | DOI/Identifier | Verification Status |
+
+The Verification Status should indicate that the bibliographic record was verified.
+
+16. Final quality-control requirements
+
+Before finalizing the response, check that:
+
+- Every in-text citation has a corresponding BibTeX entry.
+- Every BibTeX entry is cited in the literature review.
+- No reference is fabricated.
+- No DOI is fabricated.
+- No publication details are guessed.
+- The uploaded 2015–2019 papers are correctly represented.
+- Additional literature covers 2020–2026.
+- The review distinguishes direct LRT research from related language-assessment research.
+- The review identifies methodological trends.
+- The review identifies research gaps.
+- The review can be integrated into an IMRaD journal paper without major rewriting.
+- The review does not describe my own results or claim findings that have not been provided.
+
+Most importantly, prioritize bibliographic accuracy over the number of references.
+
+If you cannot verify a reference, do not include it.
