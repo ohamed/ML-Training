@@ -230,7 +230,7 @@ Editing style
 
 The revised manuscript should:
 
-- Use clear academic English.
+- Use clear academic English and prefer short to medium-length sentences. Avoid unnecessarily long or complex sentences while preserving scientific accuracy, logical flow, and academic rigor.
 - Be concise.
 - Avoid unnecessary repetition.
 - Preserve the author's voice where possible.
