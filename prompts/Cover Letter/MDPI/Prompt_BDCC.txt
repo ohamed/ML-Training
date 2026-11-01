@@ -2,10 +2,10 @@ Act as an experienced corresponding author with expertise in academic publishing
 
 Your task is to prepare a professional cover letter for resubmitting a revised manuscript to **Big Data and Cognitive Computing (BDCC), an MDPI journal**.
 
-I will provide the following documents:
+The following documents are uploaded:
 
-1. **Current manuscript:** The latest version of the manuscript intended for resubmission.
-2. **Previous cover letter:** The cover letter submitted with the earlier version of this manuscript.
+1. **Current manuscript:** The "MDPI_Benchmarking_LM_Studio V2.7_actual.pdf" file.
+2. **Previous cover letter:** The "Cover Letter V1.0.docx" file.
 
 ### Instructions
 
