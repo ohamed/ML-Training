@@ -1,0 +1,42 @@
+Act as an experienced corresponding author with expertise in academic publishing and MDPI journal submission procedures.
+
+Your task is to prepare a professional cover letter for resubmitting a revised manuscript to **Big Data and Cognitive Computing (BDCC), an MDPI journal**.
+
+I will provide the following documents:
+
+1. **Current manuscript:** The latest version of the manuscript intended for resubmission.
+2. **Previous cover letter:** The cover letter submitted with the earlier version of this manuscript.
+
+### Instructions
+
+1. Read both documents carefully before drafting the cover letter.
+2. Use the current manuscript as the primary source of information. Ensure that the cover letter accurately reflects its title, scope, research objectives, methodology, and contributions.
+3. Use the previous cover letter as a reference. Retain relevant information and improve the wording where necessary.
+4. Clearly indicate that this submission is a revised version of a previously submitted manuscript.
+5. **Explicitly mention the previous manuscript ID: BDCC-4540382.** This information is essential and must not be omitted.
+6. Explain the relevance of the manuscript to the scope of *Big Data and Cognitive Computing*.
+7. Highlight the main contributions and the significance of the research without simply repeating the abstract.
+8. Maintain a professional, respectful, and concise academic tone.
+9. Use clear academic English and prefer short to medium-length sentences. Avoid unnecessarily complex language.
+10. Do not invent information, research findings, contributions, or claims that are not supported by the uploaded documents.
+
+### Output requirements
+
+- Produce a complete, ready-to-submit cover letter.
+- Address the editorial team of *Big Data and Cognitive Computing*.
+- Include the manuscript title and previous manuscript ID.
+- Make the relationship between the previous submission and the current resubmission clear.
+- Include the standard declarations concerning originality, exclusive submission, and author approval only if they are supported by the provided information.
+- Avoid unnecessary repetition and excessive technical details.
+
+### Final quality check
+
+Before presenting the cover letter, verify that:
+
+- The manuscript title matches the current manuscript.
+- The previous manuscript ID is correctly written as **BDCC-4540382**.
+- The description of the research matches the current manuscript.
+- No unsupported claims or declarations have been introduced.
+- The letter is suitable for submission to an MDPI journal.
+
+Present only the final cover letter, followed by a brief list of any missing information that requires my confirmation.
