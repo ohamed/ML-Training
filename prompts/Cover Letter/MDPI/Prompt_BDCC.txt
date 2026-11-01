@@ -29,6 +29,14 @@ I will provide the following documents:
 - Include the standard declarations concerning originality, exclusive submission, and author approval only if they are supported by the provided information.
 - Avoid unnecessary repetition and excessive technical details.
 
+### Length and Formatting Requirements
+
+- Aim for approximately 350–400 words.
+- Keep the cover letter to approximately one page.
+- Prioritize the manuscript's main contributions, relevance to BDCC, and previous submission history.
+- Avoid unnecessary technical details, repetition, and lengthy descriptions of the methodology.
+- Maintain a concise, professional, and persuasive academic writing style.
+
 ### Final quality check
 
 Before presenting the cover letter, verify that:
