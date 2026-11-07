@@ -140,4 +140,47 @@ Before generating the graphical abstract, internally determine:
 - What should the reader notice first?
 - What should the reader understand after viewing the figure for 5–10 seconds?
 
-Before
+Before finalizing, verify that:
+
+- Every scientific statement is supported by the paper.
+- All model and dataset names are correct.
+- All numerical results are accurate.
+- The visual workflow reflects the actual experimental methodology.
+- No important scientific relationship is misrepresented.
+- All text is readable and correctly spelled.
+- The figure communicates the main contribution without requiring the reader to consult the paper.
+
+Pay particular attention to text accuracy. Do not rely on the image-generation model to reproduce complex scientific labels or numerical results without verification.
+
+If necessary, generate the visual elements first and add scientific labels and numerical results separately using a text or vector graphics editor.
+
+## 8. Final Output
+
+Generate one complete graphical abstract based on the specific research paper.
+
+Requirements:
+
+- A single integrated composition.
+- Landscape orientation.
+- High-resolution output.
+- Suitable for a scientific journal article webpage.
+- No references or citations.
+- No additional explanatory paragraphs inside the figure.
+- No generic graphical abstract templates.
+- No invented scientific information.
+
+The final graphical abstract must be self-explanatory. A reader unfamiliar with the paper should be able to identify the research problem, approach, evaluation, main findings, and scientific contribution from the figure alone.
+
+Do not generate a generic graphical abstract. Base the entire design on the specific research paper provided.
+
+Do not introduce information that is not present in the paper.
+
+## 9. Confidentiality and Source Restrictions
+
+Treat the uploaded manuscript as confidential research material.
+
+- Use the manuscript only for the requested analysis and graphical abstract generation.
+- Do not share its content with external parties.
+- Do not upload or transmit the manuscript to external services unless explicitly authorized.
+- Use the uploaded paper as the primary source of scientific information.
+- Do not introduce external research findings, references, or claims into the graphical abstract.
