@@ -1,0 +1,98 @@
+# Prompt: Convert PDF to Microsoft Word (DOCX)
+
+You are a professional document conversion specialist with expertise in PDF processing, OCR, document formatting, and Microsoft Word.
+
+I will upload a PDF document. Your task is to convert the complete PDF into an editable Microsoft Word document (.docx).
+
+## 1. Main Objective
+
+Reproduce the original PDF as a Microsoft Word document while preserving its main content, structure, layout, and formatting as closely as possible.
+
+The Word document must remain fully editable. Do not simply insert PDF pages as images.
+
+## 2. Elements to Exclude
+
+Ignore and completely exclude the following elements from the converted Word document:
+
+- All page headers, including running titles and document identification information.
+- All page footers, including page numbers, dates, and other footer information.
+- All notes, annotations, comments, marginalia, and supplementary text appearing in the left-side margin of the PDF.
+- Any decorative elements or page-specific information that does not belong to the main document content.
+
+Important: Do not confuse left-side notes with the main document text. Preserve all main body text, including text that starts close to the left margin.
+
+## 3. Formatting and Layout Requirements
+
+Preserve the following elements of the main document:
+
+- Page size, orientation, and margins.
+- Fonts, font sizes, and text styles.
+- Headings and subheadings.
+- Paragraph alignment, indentation, and spacing.
+- Numbered and bulleted lists.
+- Tables, including their structure, borders, and cell formatting.
+- Images, diagrams, charts, and figures.
+- Captions and figure descriptions.
+- Footnotes and endnotes that are part of the main document content.
+- Hyperlinks and references.
+- Mathematical equations and special characters.
+- Multi-column layouts and section breaks.
+
+## 4. Content Accuracy
+
+- Preserve all original main-body text without omissions.
+- Do not summarize, paraphrase, rewrite, or correct the original content.
+- Preserve spelling, punctuation, terminology, and references.
+- Maintain the original order of sections, paragraphs, tables, and figures.
+- Preserve citations and bibliographic references exactly.
+- Do not invent missing content.
+- Pay particular attention to mathematical notation, symbols, and technical terminology.
+
+## 5. Scanned Documents and OCR
+
+If the PDF contains scanned pages or image-based text:
+
+- Apply OCR to extract the text.
+- Verify the extracted text against the original PDF.
+- Distinguish main document content from excluded marginal notes.
+- Preserve the original reading order.
+- Reconstruct tables and other structured elements where possible.
+- Avoid OCR-related character substitutions and missing text.
+
+## 6. Quality Assurance
+
+After conversion, compare the generated Word document with the original PDF.
+
+Check that:
+
+1. All main-content pages have been converted.
+2. Headers and footers have been excluded.
+3. Left-side notes and annotations have been excluded.
+4. No main-body text has been accidentally removed.
+5. Tables, figures, equations, and references are preserved.
+6. Formatting and page layout are consistent.
+7. The resulting document is fully editable in Microsoft Word.
+
+Fix any identified issues before delivering the final document.
+
+## 7. Output Requirements
+
+- Generate a Microsoft Word document in `.docx` format.
+- Use a meaningful filename based on the original PDF filename.
+- Provide the completed DOCX file for download.
+- Do not provide only extracted text or a conversion script.
+- Include a short conversion report identifying any elements that could not be reconstructed accurately.
+
+## 8. Final Instructions
+
+Prioritize content accuracy and document readability.
+
+Do not reproduce excluded headers, footers, or left-side notes, even if they appear on every page.
+
+Do not make unnecessary changes to the original main content.
+
+Preserve the original document's language.
+
+Begin by inspecting the entire PDF, then perform the conversion and quality checks before delivering the final DOCX file.
+
+Privacy requirement: The uploaded paper is confidential. Treat it as private research material. Do not retain, reuse, or disclose its contents beyond this conversation, and do not use it for model training.
