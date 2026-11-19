@@ -1,0 +1,80 @@
+# Role and Objective
+Act as a senior expert in Artificial Intelligence (AI), Computer-Aided Design (CAD), engineering software, and AI-driven engineering workflows.
+
+I have received an email from a colleague requesting my technical assessment ahead of the VDI workshop "KI in CAD" scheduled for 27 November 2026.
+
+Read the attached email carefully, including the technical background and the three requests under the section:
+
+"Konkret würde ich mich über Folgendes freuen:"
+
+Prepare a concise, technically sound response addressing all three requests.
+
+# Tasks
+
+## 1. Future-Proof CAD Systems from an AI Perspective
+
+Evaluate the following CAD systems:
+
+- CATIA V5 and 3DEXPERIENCE CATIA
+- SOLIDWORKS
+- Siemens NX
+- PTC Creo
+- Autodesk Fusion
+
+Assess their current AI capabilities and expected development over the next 3–5 years.
+
+Consider:
+- Native AI assistants and integration with LLMs.
+- Generative design and automated engineering workflows.
+- MCP (Model Context Protocol) and external AI integration.
+- API availability and opportunities for custom AI solutions.
+- Suitability for complex mechanical engineering and industrial applications.
+
+Provide a clear recommendation identifying the most future-proof option and explain the reasoning.
+
+Consider the institute's existing investment in CATIA V5 and SmarTeam when making your recommendation. Avoid recommending a complete migration based solely on AI capabilities.
+
+## 2. Data Privacy and Security
+
+Assess the implications of integrating external AI services into CAD workflows.
+
+Address:
+- Confidentiality of CAD models, technical drawings, and intellectual property.
+- Risks associated with cloud-based AI services and external APIs.
+- Local LLM deployment and locally hosted AI infrastructure.
+- MCP security considerations, including permissions and access to CAD files.
+- Recommended architecture for secure AI-assisted CAD workflows.
+
+Provide a practical recommendation suitable for a research institute or engineering organization.
+
+## 3. Examples and Questions for the VDI Workshop
+
+Suggest exactly five practical discussion points or use cases for the workshop.
+
+Each bullet point must have:
+- A clear title.
+- A short description consisting of exactly two sentences.
+
+Focus on realistic engineering applications, such as automated drawing generation, BOM extraction, design variants, CAD model validation, and AI-assisted CAM workflows.
+
+# Research and Quality Requirements
+
+1. Use up-to-date information available as of November 2026.
+2. Verify product capabilities against official vendor documentation wherever possible.
+3. Distinguish between released features, beta features, announced capabilities, and experimental integrations.
+4. Do not present marketing claims as proven technical capabilities.
+5. Include references or direct links to authoritative sources for important technical claims.
+6. Clearly distinguish established facts from your technical assessment and predictions.
+7. Consider practical requirements, integration costs, data security, and existing infrastructure.
+
+# Output Requirements
+
+- Maximum length: 1.5 A4 pages.
+- Use professional, clear English suitable for communication with a technical colleague.
+- Structure the response using three numbered sections corresponding to the three requests.
+- Keep the analysis concise and avoid unnecessary technical explanations.
+- Provide a clear recommendation rather than simply listing advantages and disadvantages.
+- Section 3 must contain exactly five bullet points, each with a description of exactly two sentences.
+- Avoid lengthy introductions and conclusions.
+
+The final response should be suitable for sending directly to my colleague and should demonstrate practical expertise in AI-supported CAD systems and engineering workflows.

@@ -1,0 +1,24 @@
+Hallo Osama,
+
+I’m writing in German. Please feel free to reply in English, I will have it translated.
+ich schreibe dir auf Deutsch, du kannst gern auf Englisch antworten, ich lasse es mir übersetzen.
+
+am 27.11.2026 habe ich einen VDI-Workshop „KI in CAD“. Zur Vorbereitung würde ich gern deine Einschätzung einholen: Welches CAD-System lässt sich aus deiner Sicht aktuell und in den nächsten Jahren am besten mit KI unterstützen, und was bedeutet das für uns?
+
+Hintergrund: Seit Jahren wird bei uns im Team/Institut diskutiert, welches CAD-System künftig eingesetzt werden soll. Aktuell arbeiten wir mit CATIA V5 und SmarTeam. Ich habe mich dazu vorab informiert, hier kurz der Stand:
+
+• CATIA V5: Die nativen KI-Funktionen von Dassault gibt es nicht für V5, sondern nur in 3DEXPERIENCE ab Release 2026x. Denkbar wären nur Eigenlösungen über die Programmierschnittstellen (VBA, pycatia). Ein Weiterbetrieb von V5 bedeutet damit faktisch, dass wir bei KI nicht dabei sind.
+• 3DEXPERIENCE CATIA / SOLIDWORKS (Dassault): Aktuell der breiteste Rollout. LEO arbeitet laut Hersteller direkt mit CATIA-Werkzeugen. Die neuesten Funktionen laufen über die Cloud-Plattform, manches ist noch Beta.
+• Siemens NX: Design Copilot NX (bisher eher Wissensassistent) sowie starke Generative-Design- und CAM-Funktionen, was für unsere Werkstatt vielleicht interessant wäre.
+• PTC Creo: Schwerpunkt Generative Design. Ein Chat-Assistent ist mir nicht begegnet.
+• Autodesk Fusion: Hat mit seinen MCP-Servern (lokal und in der Cloud, Compute-MCP seit September als Public Beta) die offenste KI-Anbindung. Eine externe KI wie Claude kann damit Modelle erstellen, ändern, Baugruppen aufbauen und CAM-Werkzeugwege erzeugen. Autodesk zeigt Beispiele wie ein parametrisches Möbelstück und ein Spritzgussgehäuse samt Werkzeugwegen. Für komplexe Maschinenbau-Baugruppen ist die Reife aber noch unklar, und die Ergebnisse müssen geprüft werden.
+
+MCP könnte künftig ermöglichen, Konstruktionsaufgaben per Prompt anzustoßen, zum Beispiel Zeichnungsableitung, Stücklisten, Variantenbildung oder Prüfungen. Offene Punkte sind Genauigkeit, Konstruktionsabsicht, Datensicherheit und Haftung.
+
+Konkret würde ich mich über Folgendes freuen:
+1. Deine Einschätzung, welches System aus KI-Sicht am zukunftsfähigsten ist.
+2. Deine Sicht auf Datenschutz und Datensicherheit, falls CAD-Daten mit externer KI verarbeitet werden sollen (zum Beispiel lokale Lösung statt Cloud).
+3. Ob du Beispiele oder Fragen für den Workshop vorschlagen kannst.
+
+Vielen Dank und viele Grüße
+
