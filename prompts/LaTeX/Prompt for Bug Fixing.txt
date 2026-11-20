@@ -1,0 +1,1 @@
+Act as a senior Python developer with five years of experience, could you help me solve this error that I encountered while trying to run the main pipeline? I have attached some relevant code. Don't modify everything, just modify the problematic code. When doing so, rewrite the module code and provide a complete code fix.
