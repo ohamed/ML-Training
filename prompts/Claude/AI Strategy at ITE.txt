@@ -1,0 +1,135 @@
+# Task: Prepare an "AI Strategy at ITE" Document
+
+Act as an AI strategy consultant with expertise in enterprise AI adoption, research organizations, and technology management.
+
+Prepare a professional document titled **"AI Strategy at ITE"**, intended for the Head of the Institute of Technology and Engineering (ITE), Forschungszentrum Jülich.
+
+## 1. Purpose
+
+The purpose of this document is to provide a concise strategic overview of the potential adoption of AI chatbots at ITE and support the Head of ITE in making an informed decision about approving their acquisition and use across different ITE departments.
+
+The document should explain why AI chatbots are relevant to ITE, how they could support different departments, what benefits they offer, and what organizational and technical considerations should guide their adoption.
+
+The intended outcome is to obtain management approval to acquire and introduce suitable AI chatbot solutions for professional and research-related use within ITE.
+
+## 2. Source Material
+
+I will upload a PowerPoint presentation (PPTX) containing background information, proposed AI tools, use cases, comparisons, and other relevant details.
+
+You must:
+
+- Carefully review the entire presentation before writing.
+- Use the presentation as the primary source of information.
+- Extract the most relevant arguments, examples, technical information, and recommendations.
+- Preserve important facts and distinctions presented in the slides.
+- Avoid introducing unsupported claims or inventing information.
+- Identify any gaps that require clarification rather than making assumptions.
+
+You may use additional authoritative sources when necessary, particularly official vendor documentation and relevant institutional or regulatory guidance. Clearly distinguish external information from content derived from the presentation.
+
+## 3. Document Structure
+
+Organize the document into the following sections.
+
+**1. Executive Summary**
+
+Briefly explain the motivation for introducing AI chatbots at ITE, the expected value, and the proposed management decision.
+
+**2. Strategic Rationale and Potential Applications**
+
+Explain how AI chatbots can support ITE's multidisciplinary research and engineering activities.
+
+Include relevant use cases across different departments and professional functions, such as:
+
+- Scientific research and literature reviews.
+- Technical documentation and report preparation.
+- Software development and programming assistance.
+- Data analysis and interpretation.
+- Engineering and technical problem-solving.
+- Administrative tasks and internal communication.
+- Knowledge retrieval and information management.
+
+Prioritize examples that are relevant to ITE and supported by the uploaded presentation.
+
+**3. Proposed AI Chatbot Solutions**
+
+Present the AI chatbot solutions discussed in the PowerPoint.
+
+Explain their relevant capabilities, differences, advantages, and potential applications at ITE.
+
+Avoid excessive technical details. Focus on information that helps management understand the available options and make an acquisition decision.
+
+**4. Expected Benefits for ITE**
+
+Summarize the expected benefits, including:
+
+- Increased productivity and reduced time spent on routine tasks.
+- Improved support for scientific research and engineering activities.
+- Faster access to information and technical knowledge.
+- Assistance with programming, documentation, and data analysis.
+- Improved collaboration and knowledge sharing.
+- Greater opportunities to integrate AI into existing workflows.
+
+Distinguish expected benefits from experimentally demonstrated results.
+
+**5. Implementation Considerations**
+
+Briefly address the practical requirements for responsible adoption, including:
+
+- Licensing and acquisition costs.
+- Data protection, confidentiality, and information security.
+- Appropriate use of external cloud-based AI services.
+- Internal guidelines and acceptable-use policies.
+- User training and awareness.
+- Evaluation of effectiveness and potential expansion.
+
+Emphasize that AI chatbots should support employees rather than replace professional expertise or scientific judgment.
+
+**6. Recommendation and Proposed Next Steps**
+
+Conclude with a clear recommendation for management consideration.
+
+Propose a practical adoption approach, such as:
+
+- Approving the acquisition of selected AI chatbot licenses.
+- Allowing relevant employees across ITE departments to use approved solutions.
+- Starting with an initial implementation or pilot phase.
+- Collecting feedback and evaluating productivity, usefulness, and adoption.
+- Reviewing the results before deciding on broader deployment.
+
+Clearly state the management approval or decision being requested.
+
+## 4. Writing and Presentation Requirements
+
+- Length: 1.5–2 pages maximum.
+- Language: Professional English.
+- Audience: Head of ITE and senior institute management.
+- Tone: Strategic, professional, objective, and persuasive.
+- Style: Concise management-oriented writing rather than an academic research paper or technical report.
+- Use clear section headings and short paragraphs.
+- Use bullet points selectively where they improve readability.
+- Avoid unnecessary technical terminology and lengthy explanations.
+- Focus on organizational value, practical applications, feasibility, and decision-making.
+- Avoid generic statements about AI. Relate arguments to ITE's research and engineering environment.
+- Do not make unsupported claims about productivity improvements, cost savings, or AI capabilities.
+
+## 5. Important Constraints
+
+- Do not simply summarize the PowerPoint slides. Transform their content into a coherent strategic document.
+- Do not introduce additional AI initiatives beyond the scope of chatbot acquisition and adoption unless they directly support this objective.
+- Do not assume that all departments require identical AI tools or licenses.
+- Distinguish between individual chatbot subscriptions, organizational or enterprise solutions, and their respective data protection implications where relevant.
+- Do not invent licensing prices, procurement conditions, or institutional approvals.
+- Present recommendations as proposals for management consideration, not as decisions already made.
+
+## 6. Final Deliverable
+
+Produce a polished, management-ready document titled:
+
+**AI Strategy at ITE**
+
+The document should be suitable for sharing directly with the Head of ITE.
+
+Prioritize a clear business case, relevant departmental applications, responsible adoption, and a specific request for management approval.
+
+Before finalizing, verify that the document fits within 1.5–2 pages and that its recommendations are consistent with the uploaded PowerPoint.
