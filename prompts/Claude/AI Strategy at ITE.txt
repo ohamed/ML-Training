@@ -6,130 +6,183 @@ Prepare a professional document titled **"AI Strategy at ITE"**, intended for th
 
 ## 1. Purpose
 
-The purpose of this document is to provide a concise strategic overview of the potential adoption of AI chatbots at ITE and support the Head of ITE in making an informed decision about approving their acquisition and use across different ITE departments.
+The purpose of this document is to provide a concise strategic overview of the potential adoption of AI chatbots at ITE and support the Head of ITE in approving their acquisition and use across different ITE departments.
 
-The document should explain why AI chatbots are relevant to ITE, how they could support different departments, what benefits they offer, and what organizational and technical considerations should guide their adoption.
+The document should explain why AI chatbots are relevant to ITE, how they could support different departments, what benefits they offer, and what organizational and financial considerations should guide their adoption.
 
-The intended outcome is to obtain management approval to acquire and introduce suitable AI chatbot solutions for professional and research-related use within ITE.
+The intended outcome is to obtain management approval to acquire team-based AI chatbot subscriptions for professional and research-related use within ITE.
 
 ## 2. Source Material
 
-I will upload a PowerPoint presentation (PPTX) containing background information, proposed AI tools, use cases, comparisons, and other relevant details.
+I have uploaded a PowerPoint presentation titled "AI Cost Estimation_ITE.pptx".
 
-You must:
+You must carefully review the entire presentation before writing.
 
-- Carefully review the entire presentation before writing.
-- Use the presentation as the primary source of information.
-- Extract the most relevant arguments, examples, technical information, and recommendations.
-- Preserve important facts and distinctions presented in the slides.
-- Avoid introducing unsupported claims or inventing information.
-- Identify any gaps that require clarification rather than making assumptions.
+Use the presentation as the primary source for:
+- AI chatbot applications and use cases.
+- Comparison of available AI providers.
+- Team subscription pricing.
+- Estimated acquisition costs.
+- Data protection considerations.
 
-You may use additional authoritative sources when necessary, particularly official vendor documentation and relevant institutional or regulatory guidance. Clearly distinguish external information from content derived from the presentation.
+Transform the presentation content into a coherent management-oriented document rather than simply summarizing individual slides.
 
-## 3. Document Structure
+You may consult official vendor websites to verify current subscription prices, features, and licensing conditions. Clearly distinguish verified information from estimates in the presentation.
 
-Organize the document into the following sections.
+## 3. Main Focus: Team-Based AI Chatbot Subscriptions
 
-**1. Executive Summary**
+This is the most important part of the document.
 
-Briefly explain the motivation for introducing AI chatbots at ITE, the expected value, and the proposed management decision.
+Focus specifically on acquiring team-based subscriptions rather than individual personal subscriptions.
 
-**2. Strategic Rationale and Potential Applications**
+Prioritize the following solutions:
+
+**A. Standard Team Plans**
+
+Give particular attention to Standard Team subscriptions from:
+
+- Anthropic Claude Team Standard: approximately €20 per user per month (the presentation lists €18/month plus VAT).
+- OpenAI ChatGPT Business Standard: approximately €26 per user per month.
+- Google AI team offering: include the relevant team subscription and pricing from the presentation.
+- Perplexity Enterprise/Team offering: include only if relevant to the comparison and supported by the presentation.
+
+Explain why team subscriptions are more appropriate for ITE than individual subscriptions, particularly regarding:
+- Shared team workspaces and collaboration.
+- Centralized billing and subscription management.
+- Business data protection.
+- Organizational use across different departments.
+- Access to advanced AI capabilities for research, engineering, programming, and documentation.
+
+The financial assessment should focus on the Standard Team tier, which generally costs around €20–30 per user per month, depending on the provider and applicable VAT.
+
+**B. Langdock**
+
+Include Langdock as an additional solution in the comparison.
+
+Use the following pricing information:
+
+- Langdock Team subscription: €31.20 per user per month, plus VAT.
+- Monthly subscription model.
+
+Explain Langdock's potential relevance as an AI platform for organizational use, particularly its ability to provide access to different AI models through a centralized environment.
+
+Assess its potential advantages for ITE, including centralized administration, model flexibility, and organizational control.
+
+Clearly distinguish Langdock from individual chatbot subscriptions. Do not assume that its features or contractual conditions are identical to those of Claude, ChatGPT, or other providers. Verify relevant details using official Langdock documentation where necessary.
+
+**C. Financial Estimation**
+
+Provide a concise financial assessment based primarily on Standard Team subscriptions and Langdock.
+
+Use the following illustrative assumptions:
+
+- Approximately 60–65 potential users across ITE.
+- Monthly subscriptions.
+- Standard Team subscriptions costing approximately €20–30 per user per month.
+- Langdock Team subscriptions costing €31.20 per user per month, plus VAT.
+
+Include an indicative annual cost calculation for 60 and 65 users.
+
+Show the difference between:
+- Standard Team subscriptions at approximately €20 per user per month.
+- Standard Team subscriptions at approximately €25 per user per month.
+- Langdock Team subscriptions at €31.20 per user per month, excluding VAT.
+
+Clearly identify these calculations as budget estimates, not confirmed procurement quotations.
+
+Do not assume that all employees must receive the same subscription. Mention the possibility of allocating licenses according to departmental needs and actual usage.
+
+## 4. Strategic Rationale and Potential Applications
 
 Explain how AI chatbots can support ITE's multidisciplinary research and engineering activities.
 
 Include relevant use cases across different departments and professional functions, such as:
 
 - Scientific research and literature reviews.
-- Technical documentation and report preparation.
+- Summarizing scientific papers and technical documents.
 - Software development and programming assistance.
 - Data analysis and interpretation.
 - Engineering and technical problem-solving.
+- Technical documentation and report preparation.
 - Administrative tasks and internal communication.
 - Knowledge retrieval and information management.
 
-Prioritize examples that are relevant to ITE and supported by the uploaded presentation.
+Prioritize examples relevant to ITE.
 
-**3. Proposed AI Chatbot Solutions**
+## 5. Expected Benefits for ITE
 
-Present the AI chatbot solutions discussed in the PowerPoint.
-
-Explain their relevant capabilities, differences, advantages, and potential applications at ITE.
-
-Avoid excessive technical details. Focus on information that helps management understand the available options and make an acquisition decision.
-
-**4. Expected Benefits for ITE**
-
-Summarize the expected benefits, including:
+Summarize the expected benefits:
 
 - Increased productivity and reduced time spent on routine tasks.
 - Improved support for scientific research and engineering activities.
 - Faster access to information and technical knowledge.
 - Assistance with programming, documentation, and data analysis.
 - Improved collaboration and knowledge sharing.
-- Greater opportunities to integrate AI into existing workflows.
+- Access to different AI models and capabilities, depending on the selected solution.
 
-Distinguish expected benefits from experimentally demonstrated results.
+Avoid unsupported quantitative claims about productivity improvements.
 
-**5. Implementation Considerations**
+## 6. Data Protection and Implementation Considerations
 
-Briefly address the practical requirements for responsible adoption, including:
-
-- Licensing and acquisition costs.
-- Data protection, confidentiality, and information security.
-- Appropriate use of external cloud-based AI services.
+Briefly address:
+- Business and team subscription data protection policies.
+- Confidentiality and information security.
+- GDPR and applicable institutional requirements.
+- Appropriate use of cloud-based AI services.
 - Internal guidelines and acceptable-use policies.
 - User training and awareness.
-- Evaluation of effectiveness and potential expansion.
+- Licensing administration and budget monitoring.
 
-Emphasize that AI chatbots should support employees rather than replace professional expertise or scientific judgment.
+Emphasize that ITE should select solutions based on its institutional security and procurement requirements.
 
-**6. Recommendation and Proposed Next Steps**
+Do not assume that a paid team subscription automatically satisfies all Forschungszentrum Jülich requirements.
+
+## 7. Recommendation and Proposed Next Steps
 
 Conclude with a clear recommendation for management consideration.
 
-Propose a practical adoption approach, such as:
+Propose:
+1. Approval in principle for acquiring team-based AI chatbot subscriptions.
+2. Selection of suitable providers, prioritizing Standard Team plans and evaluating Langdock as an additional option.
+3. Allocation of licenses to interested employees across relevant ITE departments.
+4. An initial implementation or pilot phase.
+5. Evaluation of user feedback, productivity, practical benefits, and costs.
+6. Review of the results before considering broader deployment.
 
-- Approving the acquisition of selected AI chatbot licenses.
-- Allowing relevant employees across ITE departments to use approved solutions.
-- Starting with an initial implementation or pilot phase.
-- Collecting feedback and evaluating productivity, usefulness, and adoption.
-- Reviewing the results before deciding on broader deployment.
+Clearly state the management approval being requested.
 
-Clearly state the management approval or decision being requested.
+## 8. Important Exclusions
 
-## 4. Writing and Presentation Requirements
+**Completely exclude OpenRouter from this document.**
+
+The OpenRouter topic, including API keys, token-based pricing, API credits, and related cost estimations, has already been addressed separately.
+
+Do not discuss OpenRouter or include its cost calculations.
+
+Keep the document focused on acquiring and adopting team-based AI chatbot subscriptions.
+
+## 9. Writing and Presentation Requirements
 
 - Length: 1.5–2 pages maximum.
 - Language: Professional English.
 - Audience: Head of ITE and senior institute management.
 - Tone: Strategic, professional, objective, and persuasive.
-- Style: Concise management-oriented writing rather than an academic research paper or technical report.
+- Style: Concise management-oriented writing, not an academic paper or technical report.
 - Use clear section headings and short paragraphs.
-- Use bullet points selectively where they improve readability.
-- Avoid unnecessary technical terminology and lengthy explanations.
-- Focus on organizational value, practical applications, feasibility, and decision-making.
-- Avoid generic statements about AI. Relate arguments to ITE's research and engineering environment.
-- Do not make unsupported claims about productivity improvements, cost savings, or AI capabilities.
+- Use bullet points and tables selectively.
+- Include a compact pricing comparison table.
+- Include an indicative annual budget estimate.
+- Avoid unnecessary technical terminology.
+- Focus on organizational value, practical applications, financial feasibility, and decision-making.
 
-## 5. Important Constraints
-
-- Do not simply summarize the PowerPoint slides. Transform their content into a coherent strategic document.
-- Do not introduce additional AI initiatives beyond the scope of chatbot acquisition and adoption unless they directly support this objective.
-- Do not assume that all departments require identical AI tools or licenses.
-- Distinguish between individual chatbot subscriptions, organizational or enterprise solutions, and their respective data protection implications where relevant.
-- Do not invent licensing prices, procurement conditions, or institutional approvals.
-- Present recommendations as proposals for management consideration, not as decisions already made.
-
-## 6. Final Deliverable
+## 10. Final Deliverable
 
 Produce a polished, management-ready document titled:
 
 **AI Strategy at ITE**
 
-The document should be suitable for sharing directly with the Head of ITE.
+The document must fit within 1.5–2 pages and be suitable for sharing directly with the Head of ITE.
 
-Prioritize a clear business case, relevant departmental applications, responsible adoption, and a specific request for management approval.
+The central message should be that adopting team-based AI chatbot subscriptions represents a practical opportunity to introduce AI capabilities across ITE, support research and engineering activities, and improve employee productivity through centrally managed organizational solutions.
 
-Before finalizing, verify that the document fits within 1.5–2 pages and that its recommendations are consistent with the uploaded PowerPoint.
+End with a specific and actionable request for management approval.
